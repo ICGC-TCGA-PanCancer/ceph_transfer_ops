@@ -1,4 +1,19 @@
 {
+    "_runs_": {
+        "run_1444417610_b2475038-3363-4a64-ba5c-3aa390897064": {
+            "downloading": {
+                "bai_file-download_time": 0, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 0, 
+                "bam_file-md5sum-mismatch": "bb974fa8869e4cd74754bdf2e6429ea5", 
+                "bam_file-md5sum_time": 24, 
+                "bam_file-size-mismatch": 12079595520, 
+                "start": 1444417864, 
+                "stop": 1444417888, 
+                "time": 24
+            }
+        }
+    }, 
     "aliquot_id": "f921b592-fa4d-49f7-b773-81a0e903aaed", 
     "available_repos": [
         {
@@ -20,19 +35,19 @@
             }
         }
     ], 
+    "bai_file": {
+        "file_md5sum": "c7c9ff6108c9334d632875f17ed7bdca", 
+        "file_name": "feee94a5108afc8026b6647294bd60ce.bam.bai", 
+        "file_size": 11525768, 
+        "object_id": "a1d60023-19ac-5f07-b73f-978dc5a22a44"
+    }, 
+    "bam_file": {
+        "file_md5sum": "feee94a5108afc8026b6647294bd60ce", 
+        "file_name": "feee94a5108afc8026b6647294bd60ce.bam", 
+        "file_size": 102864042457, 
+        "object_id": "ed01c279-2d23-5d92-9680-d61a4ceb0ff3"
+    }, 
     "data_type": "WGS-BWA-Tumor", 
-    "bam_file":    {
-            "file_md5sum": "feee94a5108afc8026b6647294bd60ce", 
-            "file_name": "feee94a5108afc8026b6647294bd60ce.bam", 
-            "file_size": 102864042457, 
-            "object_id": "ed01c279-2d23-5d92-9680-d61a4ceb0ff3"
-        }, 
-    "bai_file":    {
-            "file_md5sum": "c7c9ff6108c9334d632875f17ed7bdca", 
-            "file_name": "feee94a5108afc8026b6647294bd60ce.bam.bai", 
-            "file_size": 11525768, 
-            "object_id": "a1d60023-19ac-5f07-b73f-978dc5a22a44"
-        },
     "gnos_id": "0021b6f0-96ec-4bb5-801c-b0696cf84d05", 
     "gnos_repo": [
         "https://gtrepo-bsc.annailabs.com/"
