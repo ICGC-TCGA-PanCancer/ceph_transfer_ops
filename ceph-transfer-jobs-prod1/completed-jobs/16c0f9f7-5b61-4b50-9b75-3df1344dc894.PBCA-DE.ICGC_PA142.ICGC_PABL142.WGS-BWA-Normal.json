@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1445051629_f0932b6d-5313-446c-9cb5-3027be6e11d7": {
+            "downloading": {
+                "gnos-download_time": 17642, 
+                "start": 1445051633, 
+                "stop": 1445069275, 
+                "time": 17642
+            }, 
+            "uploading": {
+                "start": 1445069281, 
+                "stop": 1445072136, 
+                "time": 2855, 
+                "upload_time": 2855
+            }
+        }
+    }, 
+    "aliquot_id": "6b846a2f-fee7-469a-8d84-7fe5fe13774d", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "7002cffe017912fed0619ea7aa644d65", 
+                "file_size": 30494
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "c115aa0c15e81092f0f395c4d1de09b9", 
+                "file_size": 30492
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "6a96fd49c0681040e26a47f7f0c220e2", 
+            "file_name": "6a96fd49c0681040e26a47f7f0c220e2.bam", 
+            "file_size": 128947341300, 
+            "object_id": "58147e1f-d507-5e08-b882-3209836870ca"
+        }, 
+        {
+            "file_md5sum": "a5178905193bd0749cd80576bfddc145", 
+            "file_name": "6a96fd49c0681040e26a47f7f0c220e2.bam.bai", 
+            "file_size": 18444904, 
+            "object_id": "51e1ba4b-9454-5b9e-acf5-8dee5e56d024"
+        }, 
+        {
+            "file_md5sum": "c115aa0c15e81092f0f395c4d1de09b9", 
+            "file_name": "16c0f9f7-5b61-4b50-9b75-3df1344dc894.xml", 
+            "file_size": 30492, 
+            "object_id": "93eec67d-01d5-5dfc-bf0f-8444e5a4f52e"
+        }
+    ], 
+    "gnos_id": "16c0f9f7-5b61-4b50-9b75-3df1344dc894", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "ICGC_PA142", 
+    "submitter_sample_id": "ICGC_PABL142", 
+    "submitter_specimen_id": "ICGC_PABL142"
+}
