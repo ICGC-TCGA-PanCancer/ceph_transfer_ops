@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1445051654_3df8840f-d742-4695-b26f-88da51de2e5f": {
+            "downloading": {
+                "gnos-download_time": 9409, 
+                "start": 1445108644, 
+                "stop": 1445118054, 
+                "time": 9410
+            }, 
+            "uploading": {
+                "start": 1445118059, 
+                "stop": 1445119751, 
+                "time": 1692, 
+                "upload_time": 1692
+            }
+        }
+    }, 
+    "aliquot_id": "d51c4943-a8ea-4ee5-86ae-6af08f81dc8b", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "b7ad72ca2a1e15a4e4d5a6dadb17473b", 
+                "file_size": 29685
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "c5774e0524f797c8be2dd0b7560f6b28", 
+                "file_size": 29575
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "a690940d7d381e1eb21887bc44e303d0", 
+            "file_name": "a690940d7d381e1eb21887bc44e303d0.bam", 
+            "file_size": 105789972206, 
+            "object_id": "d5a605f6-352c-595f-bcaa-efc1c1cbb4cd"
+        }, 
+        {
+            "file_md5sum": "23ffee42f3526f43580b8a4e999810e8", 
+            "file_name": "a690940d7d381e1eb21887bc44e303d0.bam.bai", 
+            "file_size": 19240944, 
+            "object_id": "55402647-03b4-544c-8144-3985198bd092"
+        }, 
+        {
+            "file_md5sum": "b7ad72ca2a1e15a4e4d5a6dadb17473b", 
+            "file_name": "5226fcfa-2a4e-4e2f-a6c5-6d8509a0ebd1.xml", 
+            "file_size": 29685, 
+            "object_id": "b6f9bbf4-5b9a-532e-8771-2cf90252975e"
+        }
+    ], 
+    "gnos_id": "5226fcfa-2a4e-4e2f-a6c5-6d8509a0ebd1", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MALY-DE", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "4105746", 
+    "submitter_sample_id": "control_4105746", 
+    "submitter_specimen_id": "control_4105746"
+}
