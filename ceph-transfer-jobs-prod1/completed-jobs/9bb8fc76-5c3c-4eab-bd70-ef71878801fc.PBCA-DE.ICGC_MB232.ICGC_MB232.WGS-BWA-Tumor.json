@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1445102411_4c4f29a8-818b-44b1-a6d3-23f3f560fd78": {
+            "downloading": {
+                "gnos-download_time": 3164, 
+                "start": 1445202218, 
+                "stop": 1445205383, 
+                "time": 3165
+            }, 
+            "uploading": {
+                "start": 1445205388, 
+                "stop": 1445207710, 
+                "time": 2322, 
+                "upload_time": 2322
+            }
+        }
+    }, 
+    "aliquot_id": "19aa8223-ee84-4b5c-b11a-6ca2a2680b3c", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "8bdf37ae9263666d56946f4e24dc6eac", 
+                "file_size": 29705
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "d75d2d6623248f2d7b85cd465917e51a", 
+                "file_size": 29703
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "273afe4df1d65b69e84349eab397958c", 
+            "file_name": "273afe4df1d65b69e84349eab397958c.bam", 
+            "file_size": 95673701810, 
+            "object_id": "e3a8ee13-d086-5476-bbbd-3698cc4445d9"
+        }, 
+        {
+            "file_md5sum": "5255e107172fa9055fe92f66f3d498bb", 
+            "file_name": "273afe4df1d65b69e84349eab397958c.bam.bai", 
+            "file_size": 11527208, 
+            "object_id": "ded61fa8-d605-5ae2-9fa8-6fe08e0eba8e"
+        }, 
+        {
+            "file_md5sum": "8bdf37ae9263666d56946f4e24dc6eac", 
+            "file_name": "9bb8fc76-5c3c-4eab-bd70-ef71878801fc.xml", 
+            "file_size": 29705, 
+            "object_id": "7279c8d6-df21-584b-8c0a-caa8e7ab8f3b"
+        }
+    ], 
+    "gnos_id": "9bb8fc76-5c3c-4eab-bd70-ef71878801fc", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ICGC_MB232", 
+    "submitter_sample_id": "ICGC_MB232", 
+    "submitter_specimen_id": "ICGC_MB232"
+}

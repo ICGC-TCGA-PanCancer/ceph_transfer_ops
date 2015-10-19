@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1445102350_73452172-d339-424a-b46b-d5ba9eacf5c3": {
+            "downloading": {
+                "gnos-download_time": 11115, 
+                "start": 1445206234, 
+                "stop": 1445217351, 
+                "time": 11117
+            }, 
+            "uploading": {
+                "start": 1445217355, 
+                "stop": 1445219163, 
+                "time": 1808, 
+                "upload_time": 1808
+            }
+        }
+    }, 
+    "aliquot_id": "15dd024e-c0da-461a-84db-d01e60a22210", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "dac4d275b7a856b53dcb0e4effebdbc9", 
+                "file_size": 49406
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "7ea10c07a3e7444f2ac95b2bddfd85ce", 
+                "file_size": 49404
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "3d8c6817b2ac919b724d1b88fe2db766", 
+            "file_name": "3d8c6817b2ac919b724d1b88fe2db766.bam", 
+            "file_size": 109617543107, 
+            "object_id": "cfe81a5c-2f0a-5333-8e67-0bf83c19288d"
+        }, 
+        {
+            "file_md5sum": "ce15732097606a370a5d6f69ea59777b", 
+            "file_name": "3d8c6817b2ac919b724d1b88fe2db766.bam.bai", 
+            "file_size": 18162744, 
+            "object_id": "fbad9e84-218d-5e87-bdb1-37a9e1ba81e9"
+        }, 
+        {
+            "file_md5sum": "dac4d275b7a856b53dcb0e4effebdbc9", 
+            "file_name": "a2ec738a-6354-4bb1-be08-f6ffd4916748.xml", 
+            "file_size": 49406, 
+            "object_id": "e730ba0d-6d5f-5137-a889-370097951b7f"
+        }
+    ], 
+    "gnos_id": "a2ec738a-6354-4bb1-be08-f6ffd4916748", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "MALY-DE", 
+    "specimen_type": "Primary tumour - blood derived (bone marrow)", 
+    "submitter_donor_id": "4178345", 
+    "submitter_sample_id": "tumor_4178345", 
+    "submitter_specimen_id": "tumor_4178345"
+}
