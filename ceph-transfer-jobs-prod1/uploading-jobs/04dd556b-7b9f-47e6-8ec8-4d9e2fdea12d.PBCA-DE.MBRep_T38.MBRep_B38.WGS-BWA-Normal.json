@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1445051929_15576138-5a99-477d-baba-8e1dce30656d": {
+            "downloading": {
+                "gnos-download_time": 5334, 
+                "start": 1445481648, 
+                "stop": 1445486983, 
+                "time": 5335
+            }
+        }
+    }, 
+    "aliquot_id": "3acf339b-4f63-4d1d-b3cc-4a30de6fcccb", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "54452447ec2d915784684aa0d80651ef", 
+                "file_size": 29519
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "6cbda1bc3ece319d449745ec545d416b", 
+                "file_size": 29517
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "d154072d351f69d656ada420d71a84d3", 
+                "file_size": 29515
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "a8d3da07358ef5d606358bfb42ed1638", 
+            "file_name": "a8d3da07358ef5d606358bfb42ed1638.bam", 
+            "file_size": 80891274686, 
+            "object_id": "2c631944-5136-5d16-aea3-649356486289"
+        }, 
+        {
+            "file_md5sum": "49d1ba67423bd8938ef3ee91d93cae09", 
+            "file_name": "a8d3da07358ef5d606358bfb42ed1638.bam.bai", 
+            "file_size": 10778416, 
+            "object_id": "b2d055ac-5a54-5079-8c43-cb09886d36f3"
+        }, 
+        {
+            "file_md5sum": "6cbda1bc3ece319d449745ec545d416b", 
+            "file_name": "04dd556b-7b9f-47e6-8ec8-4d9e2fdea12d.xml", 
+            "file_size": 29517, 
+            "object_id": "55ee4324-4b7b-5673-8a3e-70aa25b69036"
+        }
+    ], 
+    "gnos_id": "04dd556b-7b9f-47e6-8ec8-4d9e2fdea12d", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "MBRep_T38", 
+    "submitter_sample_id": "MBRep_B38", 
+    "submitter_specimen_id": "MBRep_B38"
+}
