@@ -1,0 +1,90 @@
+{
+    "_runs_": {
+        "run_1445103064_a45e14ef-5b9d-4588-99b2-390b665e5288": {
+            "downloading": {
+                "gnos-download_time": 3, 
+                "start": 1445471448, 
+                "stop": 1445471452, 
+                "time": 4
+            }, 
+            "uploading": {
+                "start": 1445471456, 
+                "stop": 1445472924, 
+                "time": 1468, 
+                "upload_time": 1468
+            }
+        }
+    }, 
+    "aliquot_id": "fd728e08-61ec-4618-9a45-7ae0082777f2", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "b087433472db0cdc217ede3e28e61132", 
+                "file_size": 28519
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3a3cc1c035ce4ed47bd250dad53fe2a3", 
+                "file_size": 28517
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "cd1d061a981754f8619a70402d9d4e28", 
+                "file_size": 28412
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "c4a5fe9e1137f84b9cf276ba0c4c4363", 
+        "file_name": "9992e5737f53974220dcfde3c3e6e0c3.bam.bai", 
+        "file_size": 21335688, 
+        "object_id": "09388305-4994-5e1f-9b32-01d888c220d9"
+    }, 
+    "bam_file": {
+        "file_md5sum": "9992e5737f53974220dcfde3c3e6e0c3", 
+        "file_name": "9992e5737f53974220dcfde3c3e6e0c3.bam", 
+        "file_size": 132710845468, 
+        "object_id": "3d3683d4-581d-5bd4-b279-4e2f0077d6ac"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "ea356fa3-8b00-49b6-b352-058027cef8d5", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "slice_regions": [
+        "22:40205316-40205416", 
+        "11:108828702-108828802", 
+        "22:4938634-4938734", 
+        "2:57931696-57931796", 
+        "16:58321901-58322001", 
+        "11:119417507-119417607", 
+        "7:152842498-152842598", 
+        "18:42290774-42290874", 
+        "18:55427061-55427161", 
+        "8:48812129-48812229", 
+        "19:56377351-56377451", 
+        "16:78867448-78867548", 
+        "5:5524951-5525051", 
+        "20:30794377-30794477", 
+        "16:63156061-63156161", 
+        "13:9756968-9757068", 
+        "20:60285138-60285238", 
+        "10:112455802-112455902", 
+        "17:33004631-33004731", 
+        "2:178656567-178656667"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "ICGC_PA112", 
+    "submitter_sample_id": "ICGC_PABL112", 
+    "submitter_specimen_id": "ICGC_PABL112", 
+    "xml_file": {
+        "file_md5sum": "b087433472db0cdc217ede3e28e61132", 
+        "file_name": "ea356fa3-8b00-49b6-b352-058027cef8d5.xml", 
+        "file_size": 28519, 
+        "object_id": "1dad9205-e325-5928-8e40-490665e15b54"
+    }
+}
