@@ -1,0 +1,230 @@
+{
+    "_runs_": {
+        "run_1445103021_bbe64bff-4fd3-485d-9efe-c61e67e8269f": {
+            "downloading": {
+                "gnos-download_time": 12001, 
+                "start": 1445199565, 
+                "stop": 1445211566, 
+                "time": 12001
+            }, 
+            "uploading": {
+                "start": 1445211570, 
+                "stop": 1445213291, 
+                "time": 1721, 
+                "upload_time": 1721
+            }
+        }, 
+        "run_1446588176_b6f5468f-906f-4019-87b3-b84f2861d9ab": {
+            "downloading": {
+                "bai_file-download_time": 3, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3047, 
+                "bam_file-md5sum_time": 1117, 
+                "start": 1446618533, 
+                "stop": 1446622701, 
+                "time": 4168, 
+                "xml_file-download_time": 1, 
+                "xml_file-md5sum_time": 0
+            }, 
+            "slicing": {
+                "slice_stats": {
+                    "12:47198915-47199015": {
+                        "dcctool_md5sum": "8fced9e733cb11c077c6a79b06393775", 
+                        "dcctool_time": 23, 
+                        "samtools_md5sum": "8fced9e733cb11c077c6a79b06393775", 
+                        "samtools_time": 1
+                    }, 
+                    "13:31796447-31796547": {
+                        "dcctool_md5sum": "bb289115e82c5f3267159819c45cb9c8", 
+                        "dcctool_time": 25, 
+                        "samtools_md5sum": "bb289115e82c5f3267159819c45cb9c8", 
+                        "samtools_time": 0
+                    }, 
+                    "14:23938887-23938987": {
+                        "dcctool_md5sum": "d135b6587258f373a1504b1268707c9a", 
+                        "dcctool_time": 19, 
+                        "samtools_md5sum": "d135b6587258f373a1504b1268707c9a", 
+                        "samtools_time": 0
+                    }, 
+                    "14:88811348-88811448": {
+                        "dcctool_md5sum": "38478e41f4ad1ec03769490f0bcd333e", 
+                        "dcctool_time": 22, 
+                        "samtools_md5sum": "38478e41f4ad1ec03769490f0bcd333e", 
+                        "samtools_time": 0
+                    }, 
+                    "15:36443754-36443854": {
+                        "dcctool_md5sum": "2d0517b479fccd298b198e690a0c2db2", 
+                        "dcctool_time": 20, 
+                        "samtools_md5sum": "2d0517b479fccd298b198e690a0c2db2", 
+                        "samtools_time": 0
+                    }, 
+                    "16:19024694-19024794": {
+                        "dcctool_md5sum": "7f413774008a341a3bef3522e7c1d6a8", 
+                        "dcctool_time": 29, 
+                        "samtools_md5sum": "7f413774008a341a3bef3522e7c1d6a8", 
+                        "samtools_time": 0
+                    }, 
+                    "16:64775965-64776065": {
+                        "dcctool_md5sum": "ca519c2ab20aa6a889a611dffccda094", 
+                        "dcctool_time": 26, 
+                        "samtools_md5sum": "ca519c2ab20aa6a889a611dffccda094", 
+                        "samtools_time": 0
+                    }, 
+                    "17:21679401-21679501": {
+                        "dcctool_md5sum": "f82990ac2c14f2fb0b65594ff94d61fd", 
+                        "dcctool_time": 22, 
+                        "samtools_md5sum": "f82990ac2c14f2fb0b65594ff94d61fd", 
+                        "samtools_time": 0
+                    }, 
+                    "18:22872399-22872499": {
+                        "dcctool_md5sum": "5cb122c16ec9d57b75ff067621351428", 
+                        "dcctool_time": 26, 
+                        "samtools_md5sum": "5cb122c16ec9d57b75ff067621351428", 
+                        "samtools_time": 0
+                    }, 
+                    "1:102638713-102638813": {
+                        "dcctool_md5sum": "53674c38f160ff6be795ce6836d718b0", 
+                        "dcctool_time": 10, 
+                        "samtools_md5sum": "53674c38f160ff6be795ce6836d718b0", 
+                        "samtools_time": 0
+                    }, 
+                    "1:106747157-106747257": {
+                        "dcctool_md5sum": "079235c680d02fb2f1e4a7ab27377829", 
+                        "dcctool_time": 6, 
+                        "samtools_md5sum": "079235c680d02fb2f1e4a7ab27377829", 
+                        "samtools_time": 0
+                    }, 
+                    "1:111039532-111039632": {
+                        "dcctool_md5sum": "4557e0bd7bfc1eebd278d40adcb39442", 
+                        "dcctool_time": 5, 
+                        "samtools_md5sum": "4557e0bd7bfc1eebd278d40adcb39442", 
+                        "samtools_time": 0
+                    }, 
+                    "1:139527937-139528037": {
+                        "dcctool_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
+                        "dcctool_time": 12, 
+                        "samtools_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
+                        "samtools_time": 0
+                    }, 
+                    "1:48981961-48982061": {
+                        "dcctool_md5sum": "40669cde30a60452fdee70a419cdae40", 
+                        "dcctool_time": 10, 
+                        "samtools_md5sum": "40669cde30a60452fdee70a419cdae40", 
+                        "samtools_time": 1
+                    }, 
+                    "20:30292169-30292269": {
+                        "dcctool_md5sum": "42108f9442b46a90c5d696bca0590b5c", 
+                        "dcctool_time": 29, 
+                        "samtools_md5sum": "42108f9442b46a90c5d696bca0590b5c", 
+                        "samtools_time": 0
+                    }, 
+                    "22:1465105-1465205": {
+                        "dcctool_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
+                        "dcctool_time": 52, 
+                        "samtools_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
+                        "samtools_time": 0
+                    }, 
+                    "22:32841379-32841479": {
+                        "dcctool_md5sum": "c4235078e09992f6bc17bc09099cd6c6", 
+                        "dcctool_time": 48, 
+                        "samtools_md5sum": "c4235078e09992f6bc17bc09099cd6c6", 
+                        "samtools_time": 0
+                    }, 
+                    "2:167507903-167508003": {
+                        "dcctool_md5sum": "ce716452f730f4c083317f8f512956f7", 
+                        "dcctool_time": 13, 
+                        "samtools_md5sum": "ce716452f730f4c083317f8f512956f7", 
+                        "samtools_time": 0
+                    }, 
+                    "3:131467196-131467296": {
+                        "dcctool_md5sum": "2ec3628678cefa0574c496bc1c04b5af", 
+                        "dcctool_time": 8, 
+                        "samtools_md5sum": "2ec3628678cefa0574c496bc1c04b5af", 
+                        "samtools_time": 0
+                    }, 
+                    "9:40464275-40464375": {
+                        "dcctool_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
+                        "dcctool_time": 11, 
+                        "samtools_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
+                        "samtools_time": 0
+                    }
+                }, 
+                "start": 1446622711, 
+                "stop": 1446623130, 
+                "time": 419
+            }, 
+            "uploading": {
+                "check_meta_time": 2, 
+                "start": 1446622706, 
+                "stop": 1446622708, 
+                "time": 2
+            }
+        }
+    }, 
+    "aliquot_id": "51dd1a39-7349-442c-b7e1-7850fb800569", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "399fc26c01d7c4b782107fe91fec7880", 
+                "file_size": 28523
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "1472487be845d1cc47f8015190ad5bce", 
+                "file_size": 28521
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "66c02088dbe6c840c0fa83c29ab9f1d9", 
+        "file_name": "f15af9b756a6af3eebc0c2bff3115ac4.bam.bai", 
+        "file_size": 12635320, 
+        "object_id": "12e8059b-cabb-5371-885b-fa4152a0c676"
+    }, 
+    "bam_file": {
+        "file_md5sum": "f15af9b756a6af3eebc0c2bff3115ac4", 
+        "file_name": "f15af9b756a6af3eebc0c2bff3115ac4.bam", 
+        "file_size": 101590050482, 
+        "object_id": "b74af115-50e1-5154-a38d-d88debe41d0c"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "97f0ae43-3261-4b5c-8cd9-b646461add84", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "slice_regions": [
+        "16:19024694-19024794", 
+        "1:48981961-48982061", 
+        "22:1465105-1465205", 
+        "16:64775965-64776065", 
+        "18:22872399-22872499", 
+        "2:167507903-167508003", 
+        "13:31796447-31796547", 
+        "14:23938887-23938987", 
+        "22:32841379-32841479", 
+        "1:106747157-106747257", 
+        "3:131467196-131467296", 
+        "9:40464275-40464375", 
+        "17:21679401-21679501", 
+        "1:111039532-111039632", 
+        "15:36443754-36443854", 
+        "20:30292169-30292269", 
+        "12:47198915-47199015", 
+        "1:102638713-102638813", 
+        "1:139527937-139528037", 
+        "14:88811348-88811448"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ICGC_MB119", 
+    "submitter_sample_id": "ICGC_MB119", 
+    "submitter_specimen_id": "ICGC_MB119", 
+    "xml_file": {
+        "file_md5sum": "399fc26c01d7c4b782107fe91fec7880", 
+        "file_name": "97f0ae43-3261-4b5c-8cd9-b646461add84.xml", 
+        "file_size": 28523, 
+        "object_id": "c6213597-97bd-5772-8dfc-ecfec27ad6c0"
+    }
+}
