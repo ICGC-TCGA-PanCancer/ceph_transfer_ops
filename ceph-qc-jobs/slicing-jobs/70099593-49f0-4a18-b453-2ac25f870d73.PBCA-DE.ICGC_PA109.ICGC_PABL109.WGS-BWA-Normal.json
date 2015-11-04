@@ -1,0 +1,109 @@
+{
+    "_runs_": {
+        "run_1445051958_570f0470-2dfd-4beb-9c6b-6f8827f71666": {
+            "downloading": {
+                "gnos-download_time": 3893, 
+                "start": 1445129368, 
+                "stop": 1445133262, 
+                "time": 3894
+            }, 
+            "uploading": {
+                "start": 1445133265, 
+                "stop": 1445135511, 
+                "time": 2246, 
+                "upload_time": 2246
+            }
+        }, 
+        "run_1446582067_25e3f161-b562-4136-a9b3-fa3e94870cd5": {
+            "downloading": {
+                "bai_file-download_time": 6, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4212, 
+                "bam_file-md5sum_time": 1169, 
+                "start": 1446600671, 
+                "stop": 1446606059, 
+                "time": 5388, 
+                "xml_file-download_time": 1, 
+                "xml_file-md5sum_time": 0
+            }, 
+            "uploading": {
+                "check_meta_time": 3, 
+                "start": 1446606078, 
+                "stop": 1446606081, 
+                "time": 3
+            }
+        }
+    }, 
+    "aliquot_id": "ed66c921-22e3-4a15-943f-d2e94b1f0db1", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "4ef7a1919e2a8debbe9b7b1e710503cc", 
+                "file_size": 28523
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "e63ff045f9c83e8ec84a944ad820cd84", 
+                "file_size": 28521
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "b8b9cbd7ffcb87dd3f735795e84c1015", 
+                "file_size": 28416
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "44fcf592ea5bcf175f23aa8fdb53fe12", 
+        "file_name": "d6936a1f697299f4abd3441cad2465ae.bam.bai", 
+        "file_size": 13186000, 
+        "object_id": "dbb38a3e-4bd1-58af-b370-ddc2b7134c7d"
+    }, 
+    "bam_file": {
+        "file_md5sum": "d6936a1f697299f4abd3441cad2465ae", 
+        "file_name": "d6936a1f697299f4abd3441cad2465ae.bam", 
+        "file_size": 132364674900, 
+        "object_id": "bd44425a-0f28-5a08-96c4-8b1c6427cefd"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "70099593-49f0-4a18-b453-2ac25f870d73", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "slice_regions": [
+        "14:48297596-48297696", 
+        "4:100480439-100480539", 
+        "17:56710058-56710158", 
+        "19:8761561-8761661", 
+        "18:63269938-63270038", 
+        "19:27540988-27541088", 
+        "15:91635644-91635744", 
+        "21:17219576-17219676", 
+        "6:82345605-82345705", 
+        "13:5855262-5855362", 
+        "2:4268079-4268179", 
+        "12:17812438-17812538", 
+        "19:8282120-8282220", 
+        "10:14689128-14689228", 
+        "2:6954125-6954225", 
+        "13:34403019-34403119", 
+        "14:100522936-100523036", 
+        "16:724693-724793", 
+        "4:91499564-91499664", 
+        "16:17158033-17158133"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "ICGC_PA109", 
+    "submitter_sample_id": "ICGC_PABL109", 
+    "submitter_specimen_id": "ICGC_PABL109", 
+    "xml_file": {
+        "file_md5sum": "4ef7a1919e2a8debbe9b7b1e710503cc", 
+        "file_name": "70099593-49f0-4a18-b453-2ac25f870d73.xml", 
+        "file_size": 28523, 
+        "object_id": "53fd70a0-2403-5d4d-becb-fd95388985d0"
+    }
+}
