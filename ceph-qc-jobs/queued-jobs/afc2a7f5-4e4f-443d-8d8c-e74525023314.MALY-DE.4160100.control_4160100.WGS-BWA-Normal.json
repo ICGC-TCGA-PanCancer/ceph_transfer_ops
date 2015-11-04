@@ -1,0 +1,93 @@
+{
+    "_runs_": {
+        "run_1445051958_570f0470-2dfd-4beb-9c6b-6f8827f71666": {
+            "downloading": {
+                "gnos-download_time": 7756, 
+                "start": 1445329482, 
+                "stop": 1445337239, 
+                "time": 7757
+            }, 
+            "uploading": {
+                "start": 1445337247, 
+                "stop": 1445339526, 
+                "time": 2279, 
+                "upload_time": 2279
+            }
+        }, 
+        "run_1445102350_73452172-d339-424a-b46b-d5ba9eacf5c3": {
+            "downloading": {
+                "gnos-download_time": 189, 
+                "gtdownload-error": true, 
+                "start": 1445225740, 
+                "stop": 1445225930, 
+                "time": 190
+            }
+        }
+    }, 
+    "aliquot_id": "242e5660-367a-4f26-a86a-94a98641fd6b", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "21617b31dfe62186cdde748810b7aaf1", 
+                "file_size": 29829
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "f264a23fefa0ef02f82d67c5ab236fe5", 
+                "file_size": 29827
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "de8176d322b8049c49d6f159b7695c03", 
+        "file_name": "606e7c6b1d685f422a09be92603962a1.bam.bai", 
+        "file_size": 21757776, 
+        "object_id": "fc3c789a-6d00-52b8-b1a1-ef2aa2ffdd47"
+    }, 
+    "bam_file": {
+        "file_md5sum": "606e7c6b1d685f422a09be92603962a1", 
+        "file_name": "606e7c6b1d685f422a09be92603962a1.bam", 
+        "file_size": 124157147384, 
+        "object_id": "3c461b46-cbd4-5fda-bf8b-e85eebd1293a"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "afc2a7f5-4e4f-443d-8d8c-e74525023314", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "MALY-DE", 
+    "slice_regions": [
+        "7:70561932-70562032", 
+        "14:77404393-77404493", 
+        "21:11125644-11125744", 
+        "2:177264036-177264136", 
+        "14:98748144-98748244", 
+        "21:13028393-13028493", 
+        "12:78662554-78662654", 
+        "15:41250454-41250554", 
+        "11:132733169-132733269", 
+        "1:81534304-81534404", 
+        "14:59784061-59784161", 
+        "12:16258026-16258126", 
+        "4:13881296-13881396", 
+        "4:173004385-173004485", 
+        "2:110484922-110485022", 
+        "21:29249736-29249836", 
+        "13:63804455-63804555", 
+        "22:8358146-8358246", 
+        "1:193008944-193009044", 
+        "15:7287259-7287359"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "4160100", 
+    "submitter_sample_id": "control_4160100", 
+    "submitter_specimen_id": "control_4160100", 
+    "xml_file": {
+        "file_md5sum": "21617b31dfe62186cdde748810b7aaf1", 
+        "file_name": "afc2a7f5-4e4f-443d-8d8c-e74525023314.xml", 
+        "file_size": 29829, 
+        "object_id": "e6277e5b-3557-5af0-a35e-0692029d62ad"
+    }
+}
