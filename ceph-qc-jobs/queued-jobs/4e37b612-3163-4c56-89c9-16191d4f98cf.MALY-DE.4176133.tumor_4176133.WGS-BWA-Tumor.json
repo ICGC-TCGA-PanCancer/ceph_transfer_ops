@@ -1,0 +1,99 @@
+{
+    "_runs_": {
+        "run_1445102437_d873207d-a634-4085-b42a-78cd2ebb53eb": {
+            "downloading": {
+                "gnos-download_time": 190, 
+                "gtdownload-error": true, 
+                "start": 1445108175, 
+                "stop": 1445108366, 
+                "time": 191
+            }
+        }, 
+        "run_1445102543_2bd9dd32-31e1-4688-b653-e022b5f47f61": {
+            "downloading": {
+                "gnos-download_time": 20318, 
+                "start": 1445144950, 
+                "stop": 1445165269, 
+                "time": 20319
+            }, 
+            "uploading": {
+                "start": 1445165274, 
+                "stop": 1445166980, 
+                "time": 1706, 
+                "upload_time": 1706
+            }
+        }
+    }, 
+    "aliquot_id": "b9dbc78e-44ce-427c-bbeb-de8d097bde2c", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "06f0732574eeb1be00ae29028f1edfa6", 
+                "file_size": 29571
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "7b002946d647f9b7ee3ae83e7265b615", 
+                "file_size": 29569
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "a0baf7afb3469eab467fd3339de53e80", 
+                "file_size": 29371
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "52ab763388cd99ce199e1670fed32f66", 
+        "file_name": "3cd4806c03a5274a5a6f6427843064dc.bam.bai", 
+        "file_size": 20328712, 
+        "object_id": "44415e07-f07e-53b8-8ff1-9743cbf59530"
+    }, 
+    "bam_file": {
+        "file_md5sum": "3cd4806c03a5274a5a6f6427843064dc", 
+        "file_name": "3cd4806c03a5274a5a6f6427843064dc.bam", 
+        "file_size": 117056253252, 
+        "object_id": "815e8751-7c59-5dd9-be0d-5dc9d361f200"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "4e37b612-3163-4c56-89c9-16191d4f98cf", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "MALY-DE", 
+    "slice_regions": [
+        "13:12068783-12068883", 
+        "4:88966856-88966956", 
+        "13:72386053-72386153", 
+        "21:8418930-8419030", 
+        "4:155342297-155342397", 
+        "20:61623381-61623481", 
+        "14:15680582-15680682", 
+        "7:79646962-79647062", 
+        "18:5309186-5309286", 
+        "14:67583695-67583795", 
+        "9:28305577-28305677", 
+        "7:91442410-91442510", 
+        "20:2255847-2255947", 
+        "9:64220484-64220584", 
+        "14:91079659-91079759", 
+        "16:50371653-50371753", 
+        "12:87120864-87120964", 
+        "9:77846205-77846305", 
+        "18:54234400-54234500", 
+        "19:42678115-42678215"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "4176133", 
+    "submitter_sample_id": "tumor_4176133", 
+    "submitter_specimen_id": "tumor_4176133", 
+    "xml_file": {
+        "file_md5sum": "7b002946d647f9b7ee3ae83e7265b615", 
+        "file_name": "4e37b612-3163-4c56-89c9-16191d4f98cf.xml", 
+        "file_size": 29569, 
+        "object_id": "3e274a2a-d7c6-50fb-8902-b6cefa4bbc2f"
+    }
+}
