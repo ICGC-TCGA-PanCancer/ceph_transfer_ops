@@ -1,0 +1,65 @@
+{
+    "_runs_": {
+        "run_1450709194_13d117e5-98a0-4669-8301-54582330f58e": {
+            "downloading": {
+                "gnos-download_time": 1638, 
+                "start": 1450714765, 
+                "stop": 1450716405, 
+                "time": 1640
+            }, 
+            "uploading": {
+                "copy_meta_time": 3, 
+                "start": 1450716408, 
+                "stop": 1450718132, 
+                "time": 1724, 
+                "upload_time": 1717
+            }
+        }
+    }, 
+    "aliquot_id": "f8e61a02-92ae-947e-e040-11ac0d481b68", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "f998293925435a1f267746c6220a53ca", 
+                "file_size": 65696
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "57aa0c9cb38a70f236d2d385273d1503", 
+                "file_size": 65525
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "1505a1e784d49bc0ee8de67354aa76cf", 
+            "file_name": "1505a1e784d49bc0ee8de67354aa76cf.bam", 
+            "file_size": 119277923237, 
+            "object_id": "966b2c06-06b2-5cf8-ac14-8647a682aaab"
+        }, 
+        {
+            "file_md5sum": "fea65f29337044220f55508277f6f642", 
+            "file_name": "1505a1e784d49bc0ee8de67354aa76cf.bam.bai", 
+            "file_size": 15875904, 
+            "object_id": "f49822f3-d666-504f-ba6e-aa680636037c"
+        }, 
+        {
+            "file_md5sum": "f998293925435a1f267746c6220a53ca", 
+            "file_name": "5aa5fe15-a7ea-454c-885e-51ea5ec6d2d9.xml", 
+            "file_size": 65696, 
+            "object_id": "df18a9eb-8967-5ae2-89a9-091e32ccf259"
+        }
+    ], 
+    "gnos_id": "5aa5fe15-a7ea-454c-885e-51ea5ec6d2d9", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "CMDI-UK", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CGP_donor_1364416", 
+    "submitter_sample_id": "PD6607b", 
+    "submitter_specimen_id": "CGP_specimen_1564259"
+}
