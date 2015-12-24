@@ -1,0 +1,65 @@
+{
+    "_runs_": {
+        "run_1450709168_8cd4077c-9470-4a63-9943-4fa523e21549": {
+            "downloading": {
+                "gnos-download_time": 2284, 
+                "start": 1450889253, 
+                "stop": 1450891539, 
+                "time": 2286
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1450891547, 
+                "stop": 1450896370, 
+                "time": 4823, 
+                "upload_time": 4819
+            }
+        }
+    }, 
+    "aliquot_id": "f9031d03-def1-24b4-e040-11ac0c486570", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "cd98bb101927812d94a610dbb4211b87", 
+                "file_size": 33346
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "0a073a1a64fdbc624eb110e58f6e218c", 
+                "file_size": 33231
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "5ac018c4da2bc99ae1a57ddce06153fa", 
+            "file_name": "5ac018c4da2bc99ae1a57ddce06153fa.bam", 
+            "file_size": 137638378630, 
+            "object_id": "b76863f7-975e-5157-b6a2-0c3fa3c9f176"
+        }, 
+        {
+            "file_md5sum": "dc1c795c685a0ca421d4ab7dbbdce3b0", 
+            "file_name": "5ac018c4da2bc99ae1a57ddce06153fa.bam.bai", 
+            "file_size": 14894776, 
+            "object_id": "0c1c694c-bb6d-5e88-91fa-7706eb75a80e"
+        }, 
+        {
+            "file_md5sum": "0a073a1a64fdbc624eb110e58f6e218c", 
+            "file_name": "be045980-6980-4832-969b-fc4adaa24069.xml", 
+            "file_size": 33231, 
+            "object_id": "73c86aa2-2d55-5820-976e-318aea70cc72"
+        }
+    ], 
+    "gnos_id": "be045980-6980-4832-969b-fc4adaa24069", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "CMDI-UK", 
+    "specimen_type": "Primary tumour - blood derived (peripheral blood)", 
+    "submitter_donor_id": "CGP_donor_1338119", 
+    "submitter_sample_id": "PD5181d", 
+    "submitter_specimen_id": "CGP_specimen_1561478"
+}
