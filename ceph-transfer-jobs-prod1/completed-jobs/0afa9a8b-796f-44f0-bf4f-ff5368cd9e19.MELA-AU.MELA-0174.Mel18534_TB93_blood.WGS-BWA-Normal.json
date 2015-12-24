@@ -1,0 +1,71 @@
+{
+    "_runs_": {
+        "run_1450884398_924b3379-c82f-4429-8dc9-001b1b4d3003": {
+            "downloading": {
+                "gnos-download_time": 870, 
+                "start": 1450909668, 
+                "stop": 1450910539, 
+                "time": 871
+            }, 
+            "uploading": {
+                "copy_meta_time": 1, 
+                "start": 1450910544, 
+                "stop": 1450911493, 
+                "time": 949, 
+                "upload_time": 946
+            }
+        }
+    }, 
+    "aliquot_id": "569df51d-5ff5-4209-bf69-af92a207bf50", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "1965fa2bbce9d25ef89ed408b7cddd72", 
+                "file_size": 30698
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "21f4dbae7142fe72e9e6635920e09414", 
+                "file_size": 30681
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "bf7939a897735d91578e2cc307bb09ff", 
+                "file_size": 30571
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "3e38c5b0eafd2603311248491db6102f", 
+            "file_name": "3e38c5b0eafd2603311248491db6102f.bam", 
+            "file_size": 113787090205, 
+            "object_id": "0c5c43dc-726c-5257-b1b8-61044e416348"
+        }, 
+        {
+            "file_md5sum": "01fcd14160e67fb2555a8d53f0dc81bb", 
+            "file_name": "3e38c5b0eafd2603311248491db6102f.bam.bai", 
+            "file_size": 12402152, 
+            "object_id": "da802b68-a8f5-55ff-8460-0191b4df33af"
+        }, 
+        {
+            "file_md5sum": "1965fa2bbce9d25ef89ed408b7cddd72", 
+            "file_name": "0afa9a8b-796f-44f0-bf4f-ff5368cd9e19.xml", 
+            "file_size": 30698, 
+            "object_id": "f5beeb99-03e4-57a5-8aab-6ef51f0eaca7"
+        }
+    ], 
+    "gnos_id": "0afa9a8b-796f-44f0-bf4f-ff5368cd9e19", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "MELA-0174", 
+    "submitter_sample_id": "EXTERN-MELA-20140526-029", 
+    "submitter_specimen_id": "Mel18534_TB93_blood"
+}
