@@ -1,0 +1,65 @@
+{
+    "_runs_": {
+        "run_1450709132_51dad5be-c78d-42e2-b57c-a58080c0b65f": {
+            "downloading": {
+                "gnos-download_time": 317724, 
+                "gtdownload-error": true, 
+                "start": 1450782805, 
+                "stop": 1451100530, 
+                "time": 317725
+            }
+        }
+    }, 
+    "aliquot_id": "9b75735b-705d-4ebf-92a0-fbb190b95285", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "04d06f3a919a287ad0dbf24a8056094d", 
+                "file_size": 31774
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "e262c3d1ff4db0dc50e469b086e91140", 
+                "file_size": 31772
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "599a9700421bb074ac84d6efb041f1c6", 
+                "file_size": 31662
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "b6e52e494497d86c0f37613417f39ba7", 
+            "file_name": "b6e52e494497d86c0f37613417f39ba7.bam", 
+            "file_size": 139534134726, 
+            "object_id": "18738c38-a99e-53c0-b2e3-baede8ad5e14"
+        }, 
+        {
+            "file_md5sum": "f3a63dc60471ad8fd37fce2cd0f6d268", 
+            "file_name": "b6e52e494497d86c0f37613417f39ba7.bam.bai", 
+            "file_size": 14269392, 
+            "object_id": "291c5ffe-e077-5a26-985e-84002d91ba60"
+        }, 
+        {
+            "file_md5sum": "04d06f3a919a287ad0dbf24a8056094d", 
+            "file_name": "8a6cc11c-4835-4dc3-8ca8-2bd63563d61a.xml", 
+            "file_size": 31774, 
+            "object_id": "10cc0cf6-d150-5ebc-a9ce-b11c0c8af2fa"
+        }
+    ], 
+    "gnos_id": "8a6cc11c-4835-4dc3-8ca8-2bd63563d61a", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "EOPC-DE", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "EOPC-038", 
+    "submitter_sample_id": "EOPC-038_tumor_01", 
+    "submitter_specimen_id": "EOPC-038_tumor_01"
+}
