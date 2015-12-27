@@ -1,0 +1,65 @@
+{
+    "_runs_": {
+        "run_1450709181_52a27ccf-fd96-436f-8c37-1ed7254622c5": {
+            "downloading": {
+                "gnos-download_time": 4315, 
+                "start": 1451196340, 
+                "stop": 1451200656, 
+                "time": 4316
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1451200661, 
+                "stop": 1451202034, 
+                "time": 1373, 
+                "upload_time": 1369
+            }
+        }
+    }, 
+    "aliquot_id": "ac8abe24-6ce4-45d4-b5bb-a79a04f0186a", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "b00aef789f45eead0e41c51ef24e84d8", 
+                "file_size": 33082
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "34fc5805d554196f95532750f62a3da7", 
+                "file_size": 33100
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "09e78bcadcb260e1d865e394ae5c69fa", 
+            "file_name": "09e78bcadcb260e1d865e394ae5c69fa.bam", 
+            "file_size": 92853460212, 
+            "object_id": "12b8e705-a8f2-52dd-b2f3-f096945e45ff"
+        }, 
+        {
+            "file_md5sum": "19c26241fd1f6c0f43db89f6d1541d3b", 
+            "file_name": "09e78bcadcb260e1d865e394ae5c69fa.bam.bai", 
+            "file_size": 14776056, 
+            "object_id": "4df00237-5422-5716-afcb-daa8d36dd1a7"
+        }, 
+        {
+            "file_md5sum": "b00aef789f45eead0e41c51ef24e84d8", 
+            "file_name": "97a52915-5e8d-4e67-8d0f-3253660ffb28.xml", 
+            "file_size": 33082, 
+            "object_id": "004205b8-2c8e-5bd6-805f-02c1b7b968fa"
+        }
+    ], 
+    "gnos_id": "97a52915-5e8d-4e67-8d0f-3253660ffb28", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-AU", 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "ICGC_0169", 
+    "submitter_sample_id": "8044600", 
+    "submitter_specimen_id": "8044600"
+}
