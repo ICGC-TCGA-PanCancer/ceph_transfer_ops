@@ -1,0 +1,71 @@
+{
+    "_runs_": {
+        "run_1450709181_52a27ccf-fd96-436f-8c37-1ed7254622c5": {
+            "downloading": {
+                "gnos-download_time": 2730, 
+                "start": 1451300996, 
+                "stop": 1451303727, 
+                "time": 2731
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1451303733, 
+                "stop": 1451306461, 
+                "time": 2728, 
+                "upload_time": 2725
+            }
+        }
+    }, 
+    "aliquot_id": "052015bc-8c24-467c-8ff7-9e0dc4ad39fd", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "1254691df9358194c7cf6cc801f23e32", 
+                "file_size": 33815
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "eb18c335488dc0d00b8ef4e6fb79fb5d", 
+                "file_size": 33813
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "be34900b7be8ce48bcfe46c4663dfcce", 
+                "file_size": 33699
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "459f962f8a993d875783f36d24093761", 
+            "file_name": "459f962f8a993d875783f36d24093761.bam", 
+            "file_size": 130506243274, 
+            "object_id": "167ffc5a-e5f2-50eb-b239-ae05e04741c7"
+        }, 
+        {
+            "file_md5sum": "24aa50d1a23faa52de03eb56f3f05bb1", 
+            "file_name": "459f962f8a993d875783f36d24093761.bam.bai", 
+            "file_size": 26818424, 
+            "object_id": "959f48bc-5fdb-5ab2-bbeb-6cd606e216cf"
+        }, 
+        {
+            "file_md5sum": "be34900b7be8ce48bcfe46c4663dfcce", 
+            "file_name": "cc62dafb-766b-468b-96a3-a5e72bbc05e3.xml", 
+            "file_size": 33699, 
+            "object_id": "fecf8770-7661-56a5-a634-7dd48292a664"
+        }
+    ], 
+    "gnos_id": "cc62dafb-766b-468b-96a3-a5e72bbc05e3", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "EOPC-DE", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "EOPC-035", 
+    "submitter_sample_id": "EOPC-035_tumor_02", 
+    "submitter_specimen_id": "EOPC-035_tumor_02"
+}
