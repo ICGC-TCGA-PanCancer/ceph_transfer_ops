@@ -1,0 +1,91 @@
+{
+    "_runs_": {
+        "run_1450709194_13d117e5-98a0-4669-8301-54582330f58e": {
+            "downloading": {
+                "gnos-download_time": 2323, 
+                "start": 1451313650, 
+                "stop": 1451315974, 
+                "time": 2324
+            }, 
+            "uploading": {
+                "copy_meta_time": 3, 
+                "start": 1451315983, 
+                "stop": 1451319381, 
+                "time": 3398, 
+                "upload_time": 3388
+            }
+        }
+    }, 
+    "aliquot_id": "2e76891c-b620-4cc0-9315-6f1217b09b1e", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "7ba452fcf6145557038610c7c8d74805", 
+                "file_size": 38210
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "079ba4d7c681976faba56f80030a5e54", 
+                "file_size": 38185
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "8202a939a644c3b4a06e12154d83a5f3", 
+                "file_size": 38072
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "571ef04ae095efaf3b856261c6e814dc", 
+        "file_name": "3ea5c030558a9784106395d38767561c.bam.bai", 
+        "file_size": 19672768, 
+        "object_id": "1a00b2e0-d6ff-5da2-8cbc-8ce1408e0724"
+    }, 
+    "bam_file": {
+        "file_md5sum": "3ea5c030558a9784106395d38767561c", 
+        "file_name": "3ea5c030558a9784106395d38767561c.bam", 
+        "file_size": 227639126106, 
+        "object_id": "8575f1a4-20f2-5aa9-b797-e9894b6c6116"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "d28f00e9-b8a3-4b69-9a2d-249a2909f1c6", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "17:10906989-10907089", 
+        "14:13695088-13695188", 
+        "15:56623214-56623314", 
+        "4:105662827-105662927", 
+        "19:40555175-40555275", 
+        "5:61155481-61155581", 
+        "6:33507233-33507333", 
+        "22:24568973-24569073", 
+        "17:21425016-21425116", 
+        "9:89599535-89599635", 
+        "21:31152726-31152826", 
+        "6:109531565-109531665", 
+        "6:104887932-104888032", 
+        "11:48008588-48008688", 
+        "15:35686922-35687022", 
+        "15:22842096-22842196", 
+        "9:131569074-131569174", 
+        "9:74080561-74080661", 
+        "5:98017466-98017566", 
+        "8:94333179-94333279"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis to distant location", 
+    "submitter_donor_id": "MELA-0160", 
+    "submitter_sample_id": "EXTERN-MELA-20140526-078", 
+    "submitter_specimen_id": "Mel_16892_SCC11-0240_Tumour", 
+    "xml_file": {
+        "file_md5sum": "8202a939a644c3b4a06e12154d83a5f3", 
+        "file_name": "d28f00e9-b8a3-4b69-9a2d-249a2909f1c6.xml", 
+        "file_size": 38072, 
+        "object_id": "2d862e07-fe18-5ea9-bd1c-8db42d49423e"
+    }
+}

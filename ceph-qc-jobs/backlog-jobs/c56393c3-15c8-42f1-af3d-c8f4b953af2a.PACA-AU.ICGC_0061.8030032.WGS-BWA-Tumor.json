@@ -1,0 +1,91 @@
+{
+    "_runs_": {
+        "run_1450887958_c50b5222-fd1a-4b70-bc33-a58ed101108e": {
+            "downloading": {
+                "gnos-download_time": 2325, 
+                "start": 1451287526, 
+                "stop": 1451289852, 
+                "time": 2326
+            }, 
+            "uploading": {
+                "copy_meta_time": 1, 
+                "start": 1451289861, 
+                "stop": 1451292077, 
+                "time": 2216, 
+                "upload_time": 2211
+            }
+        }
+    }, 
+    "aliquot_id": "1e181878-c640-4e91-a620-3fc4b08a4de1", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3bfc4384d970293c4824a46a501268a9", 
+                "file_size": 34329
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "f4ca9ae0448bd7fa648e80a5e8362211", 
+                "file_size": 34347
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "7ad3b4bdb48247611bca3ec93276e94a", 
+                "file_size": 34215
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "70aa0db73b6961e26115a06ea1b5e474", 
+        "file_name": "d4a70abc08c4557f8ff92b2cb48932f5.bam.bai", 
+        "file_size": 17446424, 
+        "object_id": "28564048-d28b-50ee-a5fe-acf19af867b4"
+    }, 
+    "bam_file": {
+        "file_md5sum": "d4a70abc08c4557f8ff92b2cb48932f5", 
+        "file_name": "d4a70abc08c4557f8ff92b2cb48932f5.bam", 
+        "file_size": 186594510416, 
+        "object_id": "0b0ee084-0bcc-57d1-96f8-b11d0ba7e795"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "c56393c3-15c8-42f1-af3d-c8f4b953af2a", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-AU", 
+    "slice_regions": [
+        "16:61833546-61833646", 
+        "11:90010574-90010674", 
+        "7:55012986-55013086", 
+        "10:123038527-123038627", 
+        "22:2851085-2851185", 
+        "12:129100531-129100631", 
+        "19:41669819-41669919", 
+        "1:63980130-63980230", 
+        "20:34363545-34363645", 
+        "21:11326189-11326289", 
+        "18:39583427-39583527", 
+        "18:40282448-40282548", 
+        "11:22542612-22542712", 
+        "4:138305968-138306068", 
+        "19:24012746-24012846", 
+        "1:119465741-119465841", 
+        "21:4883227-4883327", 
+        "18:16930682-16930782", 
+        "17:41712694-41712794", 
+        "10:56442492-56442592"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ICGC_0061", 
+    "submitter_sample_id": "8030032", 
+    "submitter_specimen_id": "8030032", 
+    "xml_file": {
+        "file_md5sum": "7ad3b4bdb48247611bca3ec93276e94a", 
+        "file_name": "c56393c3-15c8-42f1-af3d-c8f4b953af2a.xml", 
+        "file_size": 34215, 
+        "object_id": "9aeb8589-d929-5cae-9503-26952a8b5b65"
+    }
+}

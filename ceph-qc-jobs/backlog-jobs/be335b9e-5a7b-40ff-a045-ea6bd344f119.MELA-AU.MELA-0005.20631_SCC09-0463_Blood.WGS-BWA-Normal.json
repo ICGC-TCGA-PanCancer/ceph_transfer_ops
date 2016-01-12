@@ -1,0 +1,91 @@
+{
+    "_runs_": {
+        "run_1450887968_711d8c90-983b-405c-8039-7dda7576cc83": {
+            "downloading": {
+                "gnos-download_time": 1765, 
+                "start": 1451269422, 
+                "stop": 1451271188, 
+                "time": 1766
+            }, 
+            "uploading": {
+                "copy_meta_time": 1, 
+                "start": 1451271198, 
+                "stop": 1451272531, 
+                "time": 1333, 
+                "upload_time": 1324
+            }
+        }
+    }, 
+    "aliquot_id": "df89ba1c-e0b5-496d-9f90-12f977231f0a", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "429ed458666841f5c5c2563dc7484fda", 
+                "file_size": 42198
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "f2597af1b9ff03ff64b8353c0c6af4c4", 
+                "file_size": 42173
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "ce3aeda7f0ef6a7fb2fc7989481b876b", 
+                "file_size": 42054
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "ddfa8e7a1b8096f4a46c5f427573fca2", 
+        "file_name": "2f5e7ebc0a206a98c55dfdc38b550784.bam.bai", 
+        "file_size": 11580040, 
+        "object_id": "68d91785-d471-5740-b366-11ccb8b626eb"
+    }, 
+    "bam_file": {
+        "file_md5sum": "2f5e7ebc0a206a98c55dfdc38b550784", 
+        "file_name": "2f5e7ebc0a206a98c55dfdc38b550784.bam", 
+        "file_size": 104855249484, 
+        "object_id": "9c1912db-2bcd-5ee9-b3d7-1f2b5fc9e6b1"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "be335b9e-5a7b-40ff-a045-ea6bd344f119", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "5:122853819-122853919", 
+        "5:19284840-19284940", 
+        "15:11414596-11414696", 
+        "9:103361863-103361963", 
+        "16:37478955-37479055", 
+        "19:37009634-37009734", 
+        "2:205816649-205816749", 
+        "10:42276219-42276319", 
+        "3:102614282-102614382", 
+        "4:166435116-166435216", 
+        "7:74950940-74951040", 
+        "6:122472562-122472662", 
+        "21:39360278-39360378", 
+        "12:19470143-19470243", 
+        "6:169957226-169957326", 
+        "19:21731397-21731497", 
+        "2:139266786-139266886", 
+        "9:3208512-3208612", 
+        "8:89466665-89466765", 
+        "5:134714127-134714227"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "MELA-0005", 
+    "submitter_sample_id": "EXTERN-MELA-20140505-009", 
+    "submitter_specimen_id": "20631_SCC09-0463_Blood", 
+    "xml_file": {
+        "file_md5sum": "ce3aeda7f0ef6a7fb2fc7989481b876b", 
+        "file_name": "be335b9e-5a7b-40ff-a045-ea6bd344f119.xml", 
+        "file_size": 42054, 
+        "object_id": "f12831b1-dbee-50fb-ac4a-036aceba489d"
+    }
+}

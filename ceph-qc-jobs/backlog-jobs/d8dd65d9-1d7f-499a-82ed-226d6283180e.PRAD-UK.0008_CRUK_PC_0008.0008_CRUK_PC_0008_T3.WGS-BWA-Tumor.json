@@ -1,0 +1,85 @@
+{
+    "_runs_": {
+        "run_1450887908_d966fe48-4d14-44c8-8d8e-b56d0de34d86": {
+            "downloading": {
+                "gnos-download_time": 13450, 
+                "start": 1451328438, 
+                "stop": 1451341889, 
+                "time": 13451
+            }, 
+            "uploading": {
+                "copy_meta_time": 3, 
+                "start": 1451341894, 
+                "stop": 1451344974, 
+                "time": 3080, 
+                "upload_time": 3070
+            }
+        }
+    }, 
+    "aliquot_id": "fc9d5fc7-a87b-c5e7-e040-11ac0c4850aa", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "a2c80e459532dd1a5bbaf0a28a3dae68", 
+                "file_size": 41605
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "46bc1a79347855ce4a6791544a8b9bd1", 
+                "file_size": 41476
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "0c92725674ba4f395e0e6fb544933384", 
+        "file_name": "3940bb7d292f50d640dcc62d644bdf01.bam.bai", 
+        "file_size": 18831448, 
+        "object_id": "cd1f8024-2694-5355-a3a5-12bff3521e05"
+    }, 
+    "bam_file": {
+        "file_md5sum": "3940bb7d292f50d640dcc62d644bdf01", 
+        "file_name": "3940bb7d292f50d640dcc62d644bdf01.bam", 
+        "file_size": 272373357572, 
+        "object_id": "fc677c26-ac56-5522-ba62-7b86072c8703"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "d8dd65d9-1d7f-499a-82ed-226d6283180e", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "1:128295079-128295179", 
+        "5:164757175-164757275", 
+        "17:26378588-26378688", 
+        "3:21667874-21667974", 
+        "15:88672137-88672237", 
+        "10:6643355-6643455", 
+        "15:85827982-85828082", 
+        "21:41767244-41767344", 
+        "19:41102675-41102775", 
+        "17:11221384-11221484", 
+        "9:27704680-27704780", 
+        "7:45508018-45508118", 
+        "16:72921711-72921811", 
+        "9:113392828-113392928", 
+        "19:55468695-55468795", 
+        "18:62504998-62505098", 
+        "11:51467808-51467908", 
+        "12:36384816-36384916", 
+        "3:169769195-169769295", 
+        "14:35794056-35794156"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "0008_CRUK_PC_0008", 
+    "submitter_sample_id": "0008_CRUK_PC_0008_T3_DNA", 
+    "submitter_specimen_id": "0008_CRUK_PC_0008_T3", 
+    "xml_file": {
+        "file_md5sum": "a2c80e459532dd1a5bbaf0a28a3dae68", 
+        "file_name": "d8dd65d9-1d7f-499a-82ed-226d6283180e.xml", 
+        "file_size": 41605, 
+        "object_id": "db061a9b-a446-598e-b1e8-07756b1a5c3b"
+    }
+}
