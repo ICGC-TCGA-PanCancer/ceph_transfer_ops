@@ -1,0 +1,223 @@
+{
+    "_runs_": {
+        "run_1450887958_c50b5222-fd1a-4b70-bc33-a58ed101108e": {
+            "downloading": {
+                "gnos-download_time": 25217, 
+                "start": 1450919192, 
+                "stop": 1450944410, 
+                "time": 25218
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1450944415, 
+                "stop": 1450946178, 
+                "time": 1763, 
+                "upload_time": 1759
+            }
+        }, 
+        "run_1453321702_3b47f3de-6bf7-49eb-94f6-317bb8414fa2": {
+            "downloading": {
+                "bai_file-download_time": 3, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 1254, 
+                "bam_file-md5sum_time": 337, 
+                "start": 1453339044, 
+                "stop": 1453340641, 
+                "time": 1597
+            }, 
+            "slicing": {
+                "slice_stats": {
+                    "10:82922058-82922158": {
+                        "dcctool_md5sum": "c7368752930736d83eae92258f33185c", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "c7368752930736d83eae92258f33185c", 
+                        "samtools_time": 0
+                    }, 
+                    "11:127217561-127217661": {
+                        "dcctool_md5sum": "d6b4de35e1c62ac732915b70ab78824d", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "d6b4de35e1c62ac732915b70ab78824d", 
+                        "samtools_time": 0
+                    }, 
+                    "12:48946695-48946795": {
+                        "dcctool_md5sum": "459a9684f53719e4f18c5a4fe60b2462", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "459a9684f53719e4f18c5a4fe60b2462", 
+                        "samtools_time": 0
+                    }, 
+                    "13:101092006-101092106": {
+                        "dcctool_md5sum": "843183468dd71982249777053a2afaee", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "843183468dd71982249777053a2afaee", 
+                        "samtools_time": 0
+                    }, 
+                    "16:16878291-16878391": {
+                        "dcctool_md5sum": "e73e7cfac0e89669bf21d98bcb68bab2", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "e73e7cfac0e89669bf21d98bcb68bab2", 
+                        "samtools_time": 0
+                    }, 
+                    "17:42049361-42049461": {
+                        "dcctool_md5sum": "d26d7c8aefb4ca228800f0bc78294f88", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "d26d7c8aefb4ca228800f0bc78294f88", 
+                        "samtools_time": 0
+                    }, 
+                    "17:52890959-52891059": {
+                        "dcctool_md5sum": "358171dc8b000e540ce398cb179ac670", 
+                        "dcctool_time": 6, 
+                        "samtools_md5sum": "358171dc8b000e540ce398cb179ac670", 
+                        "samtools_time": 1
+                    }, 
+                    "18:12402732-12402832": {
+                        "dcctool_md5sum": "d9bb18a0d46cba69424d9528f50ec87f", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "d9bb18a0d46cba69424d9528f50ec87f", 
+                        "samtools_time": 0
+                    }, 
+                    "1:166661061-166661161": {
+                        "dcctool_md5sum": "444f37c2e9dcec1d05edb8204ca19b1b", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "444f37c2e9dcec1d05edb8204ca19b1b", 
+                        "samtools_time": 0
+                    }, 
+                    "1:22084641-22084741": {
+                        "dcctool_md5sum": "8c85545b562f56d87b17239b116d3fcf", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "8c85545b562f56d87b17239b116d3fcf", 
+                        "samtools_time": 0
+                    }, 
+                    "1:29209396-29209496": {
+                        "dcctool_md5sum": "4757ab0d78cb7f3f561cdf57eec0f754", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "4757ab0d78cb7f3f561cdf57eec0f754", 
+                        "samtools_time": 0
+                    }, 
+                    "1:4856990-4857090": {
+                        "dcctool_md5sum": "76dcfea3bfdbf20d3d193b44f95cf205", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "76dcfea3bfdbf20d3d193b44f95cf205", 
+                        "samtools_time": 0
+                    }, 
+                    "20:38715730-38715830": {
+                        "dcctool_md5sum": "7c81728933b6492d62f38c435cde8e75", 
+                        "dcctool_time": 5, 
+                        "samtools_md5sum": "7c81728933b6492d62f38c435cde8e75", 
+                        "samtools_time": 0
+                    }, 
+                    "2:141163888-141163988": {
+                        "dcctool_md5sum": "071cda43ce0705f298e99050facf4bcf", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "071cda43ce0705f298e99050facf4bcf", 
+                        "samtools_time": 0
+                    }, 
+                    "3:71847054-71847154": {
+                        "dcctool_md5sum": "05aca50fed8ab045fbaa9f7db0064922", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "05aca50fed8ab045fbaa9f7db0064922", 
+                        "samtools_time": 0
+                    }, 
+                    "3:76121291-76121391": {
+                        "dcctool_md5sum": "d0964ce09be8a126a2d634b6c8b539ab", 
+                        "dcctool_time": 3, 
+                        "samtools_md5sum": "d0964ce09be8a126a2d634b6c8b539ab", 
+                        "samtools_time": 0
+                    }, 
+                    "5:117097392-117097492": {
+                        "dcctool_md5sum": "63bab804ac5606af297ac9a3d1716db7", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "63bab804ac5606af297ac9a3d1716db7", 
+                        "samtools_time": 0
+                    }, 
+                    "5:11918308-11918408": {
+                        "dcctool_md5sum": "2235253563a505b62deba7dc58abe72a", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "2235253563a505b62deba7dc58abe72a", 
+                        "samtools_time": 0
+                    }, 
+                    "5:166940972-166941072": {
+                        "dcctool_md5sum": "bbbb616cac0e6cba99a8ab605e63809c", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "bbbb616cac0e6cba99a8ab605e63809c", 
+                        "samtools_time": 0
+                    }, 
+                    "9:77816658-77816758": {
+                        "dcctool_md5sum": "9e3a1a63238b7ac1ec5057f06c74f746", 
+                        "dcctool_time": 4, 
+                        "samtools_md5sum": "9e3a1a63238b7ac1ec5057f06c74f746", 
+                        "samtools_time": 0
+                    }
+                }, 
+                "start": 1453340649, 
+                "stop": 1453340727, 
+                "time": 78
+            }, 
+            "uploading": {
+                "check_meta_time": 1, 
+                "start": 1453340646, 
+                "stop": 1453340647, 
+                "time": 1
+            }
+        }
+    }, 
+    "aliquot_id": "fc975588-6e70-b496-e040-11ac0c484689", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "64e4a0754a69dc04c2b5555d33abfb16", 
+                "file_size": 90860
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "12f722a3f62243e4ad186a5c7fcd219a", 
+        "file_name": "81b02f66883d5502793983c48a3ab79d.bam.bai", 
+        "file_size": 14203600, 
+        "object_id": "3f15fa7c-f6f7-5f41-a43f-0231c11b7bc9"
+    }, 
+    "bam_file": {
+        "file_md5sum": "81b02f66883d5502793983c48a3ab79d", 
+        "file_name": "81b02f66883d5502793983c48a3ab79d.bam", 
+        "file_size": 155001471698, 
+        "object_id": "268ae610-d495-5e1d-86be-d28788af5f94"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "0eeb0b6f-eb4e-48fd-907b-259aeff46363", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BOCA-UK", 
+    "slice_regions": [
+        "17:52890959-52891059", 
+        "1:4856990-4857090", 
+        "10:82922058-82922158", 
+        "5:11918308-11918408", 
+        "2:141163888-141163988", 
+        "11:127217561-127217661", 
+        "5:166940972-166941072", 
+        "3:76121291-76121391", 
+        "17:42049361-42049461", 
+        "1:166661061-166661161", 
+        "20:38715730-38715830", 
+        "16:16878291-16878391", 
+        "12:48946695-48946795", 
+        "5:117097392-117097492", 
+        "1:29209396-29209496", 
+        "18:12402732-12402832", 
+        "1:22084641-22084741", 
+        "9:77816658-77816758", 
+        "13:101092006-101092106", 
+        "3:71847054-71847154"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1691131", 
+    "submitter_sample_id": "PD13460a", 
+    "submitter_specimen_id": "CGP_specimen_1770511", 
+    "xml_file": {
+        "file_md5sum": "64e4a0754a69dc04c2b5555d33abfb16", 
+        "file_name": "0eeb0b6f-eb4e-48fd-907b-259aeff46363.xml", 
+        "file_size": 90860, 
+        "object_id": "b80e34b1-7c7d-5e93-a11a-27e928e6cf16"
+    }
+}
