@@ -1,0 +1,102 @@
+{
+    "_runs_": {
+        "run_1450887958_c50b5222-fd1a-4b70-bc33-a58ed101108e": {
+            "downloading": {
+                "gnos-download_time": 7053, 
+                "start": 1451131128, 
+                "stop": 1451138182, 
+                "time": 7054
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1451138195, 
+                "stop": 1451139845, 
+                "time": 1650, 
+                "upload_time": 1645
+            }
+        }, 
+        "run_1453656282_a1fa0e7e-90fc-47b5-aae9-ac484c431a7d": {
+            "downloading": {
+                "bai_file-download_time": 5, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3354, 
+                "bam_file-md5sum_time": 401, 
+                "start": 1453672495, 
+                "stop": 1453676259, 
+                "time": 3764
+            }, 
+            "uploading": {
+                "check_meta_time": 6, 
+                "start": 1453676265, 
+                "stop": 1453676271, 
+                "time": 6
+            }
+        }
+    }, 
+    "aliquot_id": "d2ab7fd4-d1c7-48ae-ba9a-78c5d811465e", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "c76c13e90be793d0511a20cf322231e0", 
+                "file_size": 58541
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "e09180de137891a6a8ed742145d3a750", 
+                "file_size": 58542
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "9e57e019bb942e8506fa1ffc88b09e02", 
+        "file_name": "267ef973f15ab8e56836861a74b07925.bam.bai", 
+        "file_size": 25056488, 
+        "object_id": "6d61ecba-818c-5e47-8749-75e734b83b8c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "267ef973f15ab8e56836861a74b07925", 
+        "file_name": "267ef973f15ab8e56836861a74b07925.bam", 
+        "file_size": 158443452185, 
+        "object_id": "6f77aabb-dead-523f-8c8b-5d7a1e640870"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "736fd193-5d53-4b14-a797-c5f937a975b1", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "RECA-EU", 
+    "slice_regions": [
+        "11:47186105-47186205", 
+        "14:33576494-33576594", 
+        "12:125958803-125958903", 
+        "11:79528326-79528426", 
+        "15:29508870-29508970", 
+        "3:94013427-94013527", 
+        "12:127074906-127075006", 
+        "8:133403785-133403885", 
+        "3:166913110-166913210", 
+        "15:20778930-20779030", 
+        "11:114789988-114790088", 
+        "5:81330978-81331078", 
+        "1:36814036-36814136", 
+        "5:128273761-128273861", 
+        "12:121266175-121266275", 
+        "17:25168735-25168835", 
+        "15:26279832-26279932", 
+        "16:28754795-28754895", 
+        "22:46174075-46174175", 
+        "10:112906358-112906458"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "C0030", 
+    "submitter_sample_id": "C0030T", 
+    "submitter_specimen_id": "C0030T", 
+    "xml_file": {
+        "file_md5sum": "e09180de137891a6a8ed742145d3a750", 
+        "file_name": "736fd193-5d53-4b14-a797-c5f937a975b1.xml", 
+        "file_size": 58542, 
+        "object_id": "81a7e58d-3e32-5325-8c1a-04b77a58377c"
+    }
+}
