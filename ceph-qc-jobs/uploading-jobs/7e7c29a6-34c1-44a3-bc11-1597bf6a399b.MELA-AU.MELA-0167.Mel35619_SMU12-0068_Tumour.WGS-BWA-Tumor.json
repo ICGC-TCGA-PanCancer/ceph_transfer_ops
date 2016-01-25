@@ -1,0 +1,108 @@
+{
+    "_runs_": {
+        "run_1450887985_7e23cf14-48ef-4a6b-86ec-c487e7ffe180": {
+            "downloading": {
+                "gnos-download_time": 1837, 
+                "start": 1451152253, 
+                "stop": 1451154090, 
+                "time": 1837
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1451154096, 
+                "stop": 1451156068, 
+                "time": 1972, 
+                "upload_time": 1968
+            }
+        }, 
+        "run_1453656282_a1fa0e7e-90fc-47b5-aae9-ac484c431a7d": {
+            "downloading": {
+                "bai_file-download_time": 9, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4676, 
+                "bam_file-md5sum_time": 1142, 
+                "start": 1453686168, 
+                "stop": 1453691998, 
+                "time": 5830
+            }, 
+            "uploading": {
+                "check_meta_time": 2, 
+                "start": 1453692033, 
+                "stop": 1453692035, 
+                "time": 2
+            }
+        }
+    }, 
+    "aliquot_id": "60413de1-6cd2-4f74-8180-3bdd394d6d16", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "892a7c24991c896b0530af07a4b463cd", 
+                "file_size": 41378
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "29d6ad0307705c8cb13db2a519ad11de", 
+                "file_size": 41353
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "397d44309436cb4643584b39c9295d4d", 
+                "file_size": 41235
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "4d559e6c13b1cc9febb23b444db8db32", 
+        "file_name": "0a2055597b75c8cb09569f964bf87dc0.bam.bai", 
+        "file_size": 16344128, 
+        "object_id": "9de69729-9822-50c0-9199-f30de6e0b33c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "0a2055597b75c8cb09569f964bf87dc0", 
+        "file_name": "0a2055597b75c8cb09569f964bf87dc0.bam", 
+        "file_size": 213487838053, 
+        "object_id": "75f0b30b-356f-5300-9002-43ac560b8ee7"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "7e7c29a6-34c1-44a3-bc11-1597bf6a399b", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "20:54642246-54642346", 
+        "14:39212230-39212330", 
+        "1:8487972-8488072", 
+        "22:39924788-39924888", 
+        "14:52595021-52595121", 
+        "8:105994452-105994552", 
+        "18:48444429-48444529", 
+        "4:99108289-99108389", 
+        "15:36140920-36141020", 
+        "12:38630868-38630968", 
+        "21:9922530-9922630", 
+        "4:101004601-101004701", 
+        "10:124916480-124916580", 
+        "10:68257124-68257224", 
+        "20:26759370-26759470", 
+        "15:50599619-50599719", 
+        "3:99165711-99165811", 
+        "9:50493758-50493858", 
+        "9:74222702-74222802", 
+        "12:35932666-35932766"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis to distant location", 
+    "submitter_donor_id": "MELA-0167", 
+    "submitter_sample_id": "EXTERN-MELA-20140526-101", 
+    "submitter_specimen_id": "Mel35619_SMU12-0068_Tumour", 
+    "xml_file": {
+        "file_md5sum": "892a7c24991c896b0530af07a4b463cd", 
+        "file_name": "7e7c29a6-34c1-44a3-bc11-1597bf6a399b.xml", 
+        "file_size": 41378, 
+        "object_id": "497a62f7-2b0c-552a-a06e-b67d1d9b428e"
+    }
+}
