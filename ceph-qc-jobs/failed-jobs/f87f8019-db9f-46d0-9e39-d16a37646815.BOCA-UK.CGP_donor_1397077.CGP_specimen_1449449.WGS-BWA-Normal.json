@@ -14,35 +14,55 @@
             }
         }
     ], 
+    "bai_file": {
+        "file_md5sum": "7b92de428ed488a81556aad5a55080e2", 
+        "file_name": "1faf4818aef944ccd0cea1553aa19f55.bam.bai", 
+        "file_size": 16412872, 
+        "object_id": "91833b6c-588c-534f-b258-704dbacf855c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "1faf4818aef944ccd0cea1553aa19f55", 
+        "file_name": "1faf4818aef944ccd0cea1553aa19f55.bam", 
+        "file_size": 152064946358, 
+        "object_id": "f77cc97e-ae5e-550b-b211-4ea211294a23"
+    }, 
     "data_type": "WGS-BWA-Normal", 
-    "files": [
-        {
-            "file_md5sum": "1faf4818aef944ccd0cea1553aa19f55", 
-            "file_name": "1faf4818aef944ccd0cea1553aa19f55.bam", 
-            "file_size": 152064946358, 
-            "object_id": "f77cc97e-ae5e-550b-b211-4ea211294a23"
-        }, 
-        {
-            "file_md5sum": "7b92de428ed488a81556aad5a55080e2", 
-            "file_name": "1faf4818aef944ccd0cea1553aa19f55.bam.bai", 
-            "file_size": 16412872, 
-            "object_id": "91833b6c-588c-534f-b258-704dbacf855c"
-        }, 
-        {
-            "file_md5sum": "5ea28c96d9077df1ca251821e7dd2430", 
-            "file_name": "f87f8019-db9f-46d0-9e39-d16a37646815.xml", 
-            "file_size": 32203, 
-            "object_id": "9e936ef6-bd14-50e2-89ab-3aec97f51730"
-        }
-    ], 
     "gnos_id": "f87f8019-db9f-46d0-9e39-d16a37646815", 
     "gnos_repo": [
         "https://gtrepo-bsc.annailabs.com/"
     ], 
     "is_santa_cruz": true, 
     "project_code": "BOCA-UK", 
+    "slice_regions": [
+        "9:35658013-35658113", 
+        "10:85444928-85445028", 
+        "13:110873405-110873505", 
+        "7:3687112-3687212", 
+        "11:38686202-38686302", 
+        "20:28328537-28328637", 
+        "22:35341657-35341757", 
+        "11:8778967-8779067", 
+        "22:47688026-47688126", 
+        "8:72949681-72949781", 
+        "18:67104266-67104366", 
+        "19:50950491-50950591", 
+        "10:42616607-42616707", 
+        "6:135929115-135929215", 
+        "3:166078084-166078184", 
+        "17:59809343-59809443", 
+        "17:9395110-9395210", 
+        "9:103884750-103884850", 
+        "8:61050002-61050102", 
+        "6:60158701-60158801"
+    ], 
     "specimen_type": "Normal - solid tissue", 
     "submitter_donor_id": "CGP_donor_1397077", 
     "submitter_sample_id": "PD7190b", 
-    "submitter_specimen_id": "CGP_specimen_1449449"
+    "submitter_specimen_id": "CGP_specimen_1449449", 
+    "xml_file": {
+        "file_md5sum": "5ea28c96d9077df1ca251821e7dd2430", 
+        "file_name": "f87f8019-db9f-46d0-9e39-d16a37646815.xml", 
+        "file_size": 32203, 
+        "object_id": "9e936ef6-bd14-50e2-89ab-3aec97f51730"
+    }
 }
