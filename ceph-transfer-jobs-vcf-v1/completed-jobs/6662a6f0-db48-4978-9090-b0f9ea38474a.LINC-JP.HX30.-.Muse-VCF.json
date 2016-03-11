@@ -1,0 +1,59 @@
+{
+    "_runs_": {
+        "run_1457638354_0fa6fdda-a90b-4fe2-b9c1-ad8a28951c5e": {
+            "downloading": {
+                "gnos-download_time": 114, 
+                "start": 1457649737, 
+                "stop": 1457649851, 
+                "time": 114
+            }, 
+            "uploading": {
+                "copy_meta_time": 1, 
+                "start": 1457649859, 
+                "stop": 1457649883, 
+                "time": 24, 
+                "upload_time": 23
+            }
+        }
+    }, 
+    "aliquot_id": null, 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "33f8fc55662ed7707cadc3156af14c18", 
+                "file_size": 37790
+            }
+        }
+    ], 
+    "data_type": "Muse-VCF", 
+    "files": [
+        {
+            "file_md5sum": "4ed805436d92818abb5c6d345e5e7f9b", 
+            "file_name": "19085f7d-e6a6-406f-bd09-520a27e0283d.MUSE_1-0rc-vcf.20151029.somatic.snv_mnv.vcf.gz", 
+            "file_size": 340174, 
+            "object_id": "c14a4f9e-9332-5bd8-bca1-06cccf83242b"
+        }, 
+        {
+            "file_md5sum": "9afc182c6e0e8d077b17fdd13ee2ee9c", 
+            "file_name": "19085f7d-e6a6-406f-bd09-520a27e0283d.MUSE_1-0rc-vcf.20151029.somatic.snv_mnv.vcf.gz.idx", 
+            "file_size": 176576, 
+            "object_id": "6f52ab03-e1ee-5c8f-b54d-1827cdf8b959"
+        }, 
+        {
+            "file_md5sum": "33f8fc55662ed7707cadc3156af14c18", 
+            "file_name": "6662a6f0-db48-4978-9090-b0f9ea38474a.xml", 
+            "file_size": 37790, 
+            "object_id": "9750087a-5754-5660-85f5-42499ed47f9d"
+        }
+    ], 
+    "gnos_id": "6662a6f0-db48-4978-9090-b0f9ea38474a", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "project_code": "LINC-JP", 
+    "specimen_type": null, 
+    "submitter_donor_id": "HX30", 
+    "submitter_sample_id": null, 
+    "submitter_specimen_id": null, 
+    "vcf_workflow_result_version": "v1"
+}
