@@ -1,16 +1,27 @@
 {
     "_runs_": {
-        "run_1457961406_97b92a38-7e91-424a-8f68-40846c86e617": {
+        "run_1458246587_fd7cf877-ca7f-4dab-98e7-854d91eb2ded": {
             "downloading": {
-                "gnos-download_time": 268, 
-                "start": 1457962461, 
-                "stop": 1457962730, 
-                "time": 269
+                "gnos-download_time": 1414, 
+                "start": 1458270935, 
+                "stop": 1458272350, 
+                "time": 1415
+            }, 
+            "uploading": {
+                "start": 1458272357, 
+                "stop": 1458272837, 
+                "time": 480
             }
         }
     }, 
     "aliquot_id": null, 
     "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "21b9cd39e42974bd4db2dddbbaf3e0e6", 
+                "file_size": 56932
+            }
+        }, 
         {
             "https://gtrepo-dkfz.annailabs.com/": {
                 "file_md5sum": "2975740cf7e0cab7ef9087a1b9a96942", 
@@ -77,7 +88,8 @@
         {
             "file_md5sum": "50f8fee22a09123528b47bfab98b8daa", 
             "file_name": "7fe96e71-436d-49d4-9e47-e104e1203568.dkfz-snvCalling_1-0-132-1.20150817.germline.snv_mnv.vcf.gz", 
-            "file_size": "107442693"
+            "file_size": 107442693, 
+            "object_id": ""
         }, 
         {
             "file_md5sum": "4e67e431f261938f4b26dfebf0965d19", 
@@ -170,15 +182,15 @@
             "object_id": "29ba0ba7-20dc-51b7-92cb-c8bafc31aa09"
         }, 
         {
-            "file_md5sum": "2975740cf7e0cab7ef9087a1b9a96942", 
+            "file_md5sum": "21b9cd39e42974bd4db2dddbbaf3e0e6", 
             "file_name": "8ed90403-e7d8-48e5-b682-d03a6244e44b.xml", 
-            "file_size": 57156, 
+            "file_size": 56932, 
             "object_id": "bfb26cbb-5f7c-5825-9642-92a77e455323"
         }
     ], 
     "gnos_id": "8ed90403-e7d8-48e5-b682-d03a6244e44b", 
     "gnos_repo": [
-        "https://gtrepo-dkfz.annailabs.com/"
+        "https://gtrepo-ebi.annailabs.com/"
     ], 
     "project_code": "PRAD-CA", 
     "specimen_type": null, 
