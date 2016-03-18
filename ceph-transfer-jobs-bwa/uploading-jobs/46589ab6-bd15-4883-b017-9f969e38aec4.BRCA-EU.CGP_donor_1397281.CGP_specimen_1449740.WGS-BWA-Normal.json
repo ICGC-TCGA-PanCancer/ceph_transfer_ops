@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458074856_ded0db2c-efb8-4d4a-8f0c-859d8fc609e2": {
+            "downloading": {
+                "gnos-download_time": 18419, 
+                "start": 1458261641, 
+                "stop": 1458280062, 
+                "time": 18421
+            }
+        }
+    }, 
+    "aliquot_id": "fc8130df-2ca1-39d2-e040-11ac0d485e00", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "deb6ca323cd27bc9609a8d322db974b5", 
+                "file_size": 30468
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "747daa9e955147b660cb1cd5cdb8e92b", 
+                "file_size": 30358
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "02104d5596c8bc54bdec5dee85aae718", 
+                "file_size": 30364
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "6244dcb7d1e46205c2d278f2c86185c1", 
+            "file_name": "6244dcb7d1e46205c2d278f2c86185c1.bam", 
+            "file_size": 117326909408, 
+            "object_id": "ed6657c2-e5bb-505e-9df1-5fe6c13a50f7"
+        }, 
+        {
+            "file_md5sum": "d67b358543141a7fd9ff0e6453ae0d31", 
+            "file_name": "6244dcb7d1e46205c2d278f2c86185c1.bam.bai", 
+            "file_size": 13091208, 
+            "object_id": "725ca5ec-6031-5b81-9ab8-1ec3db41e62d"
+        }, 
+        {
+            "file_md5sum": "747daa9e955147b660cb1cd5cdb8e92b", 
+            "file_name": "46589ab6-bd15-4883-b017-9f969e38aec4.xml", 
+            "file_size": 30358, 
+            "object_id": "aa1822ce-0d39-5641-976e-e64662e0720a"
+        }
+    ], 
+    "gnos_id": "46589ab6-bd15-4883-b017-9f969e38aec4", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BRCA-EU", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CGP_donor_1397281", 
+    "submitter_sample_id": "PD7218b", 
+    "submitter_specimen_id": "CGP_specimen_1449740"
+}
