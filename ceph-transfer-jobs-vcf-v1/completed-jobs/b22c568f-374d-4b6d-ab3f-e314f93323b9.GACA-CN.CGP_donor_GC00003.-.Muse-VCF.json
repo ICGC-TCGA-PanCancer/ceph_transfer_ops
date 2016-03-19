@@ -1,0 +1,59 @@
+{
+    "_runs_": {
+        "run_1458312570_bbdcc488-cf94-4721-921e-6b2ae14708a4": {
+            "downloading": {
+                "gnos-download_time": 128, 
+                "start": 1458363156, 
+                "stop": 1458363290, 
+                "time": 134
+            }, 
+            "uploading": {
+                "copy_meta_time": 4, 
+                "start": 1458363317, 
+                "stop": 1458363500, 
+                "time": 183, 
+                "upload_time": 179
+            }
+        }
+    }, 
+    "aliquot_id": null, 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "f9e06a36de38177d012968c82c2708a7", 
+                "file_size": 41345
+            }
+        }
+    ], 
+    "data_type": "Muse-VCF", 
+    "files": [
+        {
+            "file_md5sum": "1b116edb03c551eaa6345d7f4de74a08", 
+            "file_name": "08d2a566-8407-4e9b-836c-bf5e1e9f85b2.MUSE_1-0rc-b391201-vcf.20151226.somatic.snv_mnv.vcf.gz", 
+            "file_size": 155249, 
+            "object_id": "2fcc89e2-fcfc-5217-9f9c-2c53d7fc4e0d"
+        }, 
+        {
+            "file_md5sum": "7371abf606a31375d66f719a235cb0d8", 
+            "file_name": "08d2a566-8407-4e9b-836c-bf5e1e9f85b2.MUSE_1-0rc-b391201-vcf.20151226.somatic.snv_mnv.vcf.gz.idx", 
+            "file_size": 88938, 
+            "object_id": "a417c397-3ebb-5de3-86c3-fe331aad4b18"
+        }, 
+        {
+            "file_md5sum": "f9e06a36de38177d012968c82c2708a7", 
+            "file_name": "b22c568f-374d-4b6d-ab3f-e314f93323b9.xml", 
+            "file_size": 41345, 
+            "object_id": "3a83d3bc-77e8-5824-bd05-1ea799a83d31"
+        }
+    ], 
+    "gnos_id": "b22c568f-374d-4b6d-ab3f-e314f93323b9", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "project_code": "GACA-CN", 
+    "specimen_type": null, 
+    "submitter_donor_id": "CGP_donor_GC00003", 
+    "submitter_sample_id": null, 
+    "submitter_specimen_id": null, 
+    "vcf_workflow_result_version": "v1"
+}

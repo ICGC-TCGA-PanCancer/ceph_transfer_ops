@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1458149322_b26c7bd5-706b-4a3f-adec-3b239196ff55": {
+            "downloading": {
+                "gnos-download_time": 24764, 
+                "start": 1458346007, 
+                "stop": 1458370774, 
+                "time": 24767
+            }, 
+            "uploading": {
+                "start": 1458370797, 
+                "stop": 1458373499, 
+                "time": 2702
+            }
+        }
+    }, 
+    "aliquot_id": "e4d80995-5a29-40bf-9a36-6a46bf972671", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "1db281716f1b05c20446fa4eb7fe7de2", 
+                "file_size": 36125
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "e1c8473ce9133198e3e0ef541465eb44", 
+                "file_size": 36007
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3cb11f31abebdfa601a9d394e1d7860e", 
+                "file_size": 36119
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "45287df3d6e75faae506fd7335a245e6", 
+                "file_size": 36013
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "da2b83aa11a55e8c733e719ad17317ed", 
+            "file_name": "da2b83aa11a55e8c733e719ad17317ed.bam", 
+            "file_size": 147862183926, 
+            "object_id": "f4ab49d5-58a9-54bd-8dc8-abde320a04e6"
+        }, 
+        {
+            "file_md5sum": "58a2c9521eaf160f9f9c476ecb1dfdc9", 
+            "file_name": "da2b83aa11a55e8c733e719ad17317ed.bam.bai", 
+            "file_size": 13252544, 
+            "object_id": "f06b7555-7efb-53d6-bfaa-979befdd79d5"
+        }, 
+        {
+            "file_md5sum": "e1c8473ce9133198e3e0ef541465eb44", 
+            "file_name": "707a245d-2e3d-47e5-8922-90343464d806.xml", 
+            "file_size": 36007, 
+            "object_id": "9037b13f-d29b-5cda-94ad-e2ca17b47b3b"
+        }
+    ], 
+    "gnos_id": "707a245d-2e3d-47e5-8922-90343464d806", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "PCSI_0210", 
+    "submitter_sample_id": "PCSI_0210_St_R", 
+    "submitter_specimen_id": "PCSI_0210_St_R"
+}
