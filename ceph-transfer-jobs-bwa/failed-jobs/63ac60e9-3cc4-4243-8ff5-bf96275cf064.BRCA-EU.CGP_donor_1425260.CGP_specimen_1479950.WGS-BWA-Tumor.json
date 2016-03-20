@@ -1,0 +1,63 @@
+{
+    "_runs_": {
+        "run_1458332182_73ed644c-2951-47ee-a89a-2f856ac558ac": {
+            "downloading": {
+                "gnos-download_time": 1, 
+                "start": 1458441229, 
+                "stop": 1458441231, 
+                "time": 2
+            }, 
+            "uploading": {
+                "start": 1458441330, 
+                "stop": 1458448858, 
+                "time": 7528
+            }
+        }
+    }, 
+    "aliquot_id": "fc8130e0-0b9c-bbc9-e040-11ac0c483266", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "51c86a7b4a0e302c9732ec8911f357a8", 
+                "file_size": 33320
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "eb6e64bffb0cbf3754288f35767202c4", 
+                "file_size": 33321
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "c5f40b0464d5d5cf04629dee61c02662", 
+            "file_name": "c5f40b0464d5d5cf04629dee61c02662.bam", 
+            "file_size": 173801528872, 
+            "object_id": "80c39fc8-fd22-5387-9c47-760b1d478ef0"
+        }, 
+        {
+            "file_md5sum": "a6fc28a9512ddacd9c7a098d05f0d6d7", 
+            "file_name": "c5f40b0464d5d5cf04629dee61c02662.bam.bai", 
+            "file_size": 16327944, 
+            "object_id": "e247f56f-7f6a-59f9-8588-dda740414d39"
+        }, 
+        {
+            "file_md5sum": "51c86a7b4a0e302c9732ec8911f357a8", 
+            "file_name": "63ac60e9-3cc4-4243-8ff5-bf96275cf064.xml", 
+            "file_size": 33320, 
+            "object_id": "885df8be-6e25-5985-b39c-6387cf091b5a"
+        }
+    ], 
+    "gnos_id": "63ac60e9-3cc4-4243-8ff5-bf96275cf064", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BRCA-EU", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1425260", 
+    "submitter_sample_id": "PD7433a", 
+    "submitter_specimen_id": "CGP_specimen_1479950"
+}
