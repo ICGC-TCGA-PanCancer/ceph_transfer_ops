@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1458328876_c119055a-dded-4f67-9edc-92a25d0e65e8": {
+            "downloading": {
+                "gnos-download_time": 2, 
+                "start": 1458449742, 
+                "stop": 1458449745, 
+                "time": 3
+            }, 
+            "uploading": {
+                "start": 1458449748, 
+                "stop": 1458450047, 
+                "time": 299
+            }
+        }
+    }, 
+    "aliquot_id": "f410b432-c622-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "7704bf3523c636f4274f2d7199185861", 
+                "file_size": 29098
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "2d94c2b5fe3a6953ee3fdc00d5fb190b", 
+                "file_size": 28312
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "32f5f59de98e5b17e770d9b02654d00e", 
+                "file_size": 28309
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "8019ee05945dc5f1102ac0636b9500b5", 
+                "file_size": 28309
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "60b70548572aa4ee40c3f19c4c8c421d", 
+            "file_name": "1d96abd8f822f0c3a4e69fc148a512e9.bam", 
+            "file_size": 110515397807, 
+            "object_id": "6e090380-532a-5862-a969-0849431eb62b"
+        }, 
+        {
+            "file_md5sum": "c8871fff7b0f23597118f3871851937a", 
+            "file_name": "1d96abd8f822f0c3a4e69fc148a512e9.bam.bai", 
+            "file_size": 8954208, 
+            "object_id": "36e24f69-0c8c-5077-9543-f275b4aa5fa8"
+        }, 
+        {
+            "file_md5sum": "32f5f59de98e5b17e770d9b02654d00e", 
+            "file_name": "7685f0b7-1938-4d02-9b12-4d17d560b1a3.xml", 
+            "file_size": 28309, 
+            "object_id": "50908f29-16ca-56a3-b7fb-13651d423df8"
+        }
+    ], 
+    "gnos_id": "7685f0b7-1938-4d02-9b12-4d17d560b1a3", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "RK162", 
+    "submitter_sample_id": "RK162_C01", 
+    "submitter_specimen_id": "RK162_C01"
+}
