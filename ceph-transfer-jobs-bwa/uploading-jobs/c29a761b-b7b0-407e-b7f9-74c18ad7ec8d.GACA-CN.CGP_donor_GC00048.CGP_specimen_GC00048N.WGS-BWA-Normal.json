@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458332177_f3cc138d-261d-4eff-a03a-2f2e0a5efe9a": {
+            "downloading": {
+                "gnos-download_time": 4484, 
+                "start": 1458593076, 
+                "stop": 1458597561, 
+                "time": 4485
+            }
+        }
+    }, 
+    "aliquot_id": "2ed935bf-a709-48ae-8184-d4f8dc7b7f30", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "7a23db135a1861c0cf49d36035501a33", 
+                "file_size": 34095
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "811a40c0048160ad061d8213197fd4b6", 
+                "file_size": 34090
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "b03aabb15b746052a1ab1f98b710d004", 
+                "file_size": 33975
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "d26beb024040e7405336ded3d200bf7f", 
+            "file_name": "d26beb024040e7405336ded3d200bf7f.bam", 
+            "file_size": 101166554708, 
+            "object_id": "3dde500d-35c8-5e1e-bd67-9aac9eda8430"
+        }, 
+        {
+            "file_md5sum": "a0833b3734d823c5a897710848d3a67f", 
+            "file_name": "d26beb024040e7405336ded3d200bf7f.bam.bai", 
+            "file_size": 9910928, 
+            "object_id": "a344bc44-20ac-5d95-a83f-6bba78e9a4b6"
+        }, 
+        {
+            "file_md5sum": "b03aabb15b746052a1ab1f98b710d004", 
+            "file_name": "c29a761b-b7b0-407e-b7f9-74c18ad7ec8d.xml", 
+            "file_size": 33975, 
+            "object_id": "e16bd688-9cb5-5a8b-9bfb-cf550917c563"
+        }
+    ], 
+    "gnos_id": "c29a761b-b7b0-407e-b7f9-74c18ad7ec8d", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "GACA-CN", 
+    "specimen_type": "Normal - tissue adjacent to primary", 
+    "submitter_donor_id": "CGP_donor_GC00048", 
+    "submitter_sample_id": "GC13707N", 
+    "submitter_specimen_id": "CGP_specimen_GC00048N"
+}
