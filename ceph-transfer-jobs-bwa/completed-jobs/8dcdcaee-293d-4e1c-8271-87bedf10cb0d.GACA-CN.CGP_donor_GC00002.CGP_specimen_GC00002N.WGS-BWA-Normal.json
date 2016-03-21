@@ -1,0 +1,71 @@
+{
+    "_runs_": {
+        "run_1458149286_334ae171-d93d-4040-94e6-10aad589b619": {
+            "downloading": {
+                "gnos-download_time": 4470, 
+                "start": 1458549973, 
+                "stop": 1458554443, 
+                "time": 4470
+            }, 
+            "uploading": {
+                "copy_meta_time": 5, 
+                "start": 1458554457, 
+                "stop": 1458558006, 
+                "time": 3549, 
+                "upload_time": 3541
+            }
+        }
+    }, 
+    "aliquot_id": "a1de15d8-d0f5-40c6-8d3c-729237b1367e", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "95176b07ea6aee66d38cf68f684ccd22", 
+                "file_size": 34094
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "8207ea712e2262bee8e9ea8c91e90d19", 
+                "file_size": 34088
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "4b1e751e49f549e0b11dc85c6377a7e2", 
+                "file_size": 33973
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "498ad1ef4dbd80142247b9ab5c49177b", 
+            "file_name": "498ad1ef4dbd80142247b9ab5c49177b.bam", 
+            "file_size": 103468670281, 
+            "object_id": "91be1e3a-443a-5fd8-843f-a1ab2004bcf1"
+        }, 
+        {
+            "file_md5sum": "a4f9f6a18338cf4a7478618ff3d9508a", 
+            "file_name": "498ad1ef4dbd80142247b9ab5c49177b.bam.bai", 
+            "file_size": 10248992, 
+            "object_id": "0785a73c-65ce-507d-9cf4-373cc6793692"
+        }, 
+        {
+            "file_md5sum": "4b1e751e49f549e0b11dc85c6377a7e2", 
+            "file_name": "8dcdcaee-293d-4e1c-8271-87bedf10cb0d.xml", 
+            "file_size": 33973, 
+            "object_id": "edbfa66e-80d0-5cca-9279-9be94f74ea26"
+        }
+    ], 
+    "gnos_id": "8dcdcaee-293d-4e1c-8271-87bedf10cb0d", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "GACA-CN", 
+    "specimen_type": "Normal - tissue adjacent to primary", 
+    "submitter_donor_id": "CGP_donor_GC00002", 
+    "submitter_sample_id": "GC12014N", 
+    "submitter_specimen_id": "CGP_specimen_GC00002N"
+}
