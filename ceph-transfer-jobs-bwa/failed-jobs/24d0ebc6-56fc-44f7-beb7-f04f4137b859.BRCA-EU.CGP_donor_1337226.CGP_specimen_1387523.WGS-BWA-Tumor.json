@@ -1,0 +1,58 @@
+{
+    "_runs_": {
+        "run_1458074800_21d04a36-1ad9-417b-9b21-bd42d0622149": {
+            "downloading": {
+                "24d0ebc6-56fc-44f7-beb7-f04f4137b859.xml-size-mismatch": 40416, 
+                "start": 1458577980, 
+                "stop": 1458577981, 
+                "time": 1
+            }
+        }
+    }, 
+    "aliquot_id": "f7d70fac-c76f-399e-e040-11ac0c482f9c", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "b64ef645c39c4e5e38a8d506849a1ca4", 
+                "file_size": 40416
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "aee7d94ac98af6cf901c32adb392d9a9", 
+                "file_size": 40417
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "e78993c3a33d0ffa0962406a92c3b33b", 
+            "file_name": "e78993c3a33d0ffa0962406a92c3b33b.bam", 
+            "file_size": 123967852772, 
+            "object_id": "c1735e9b-2dad-5895-84a3-ac4a39c39a12"
+        }, 
+        {
+            "file_md5sum": "a03744bf34a0b9e455d635e14615c6c4", 
+            "file_name": "e78993c3a33d0ffa0962406a92c3b33b.bam.bai", 
+            "file_size": 14644640, 
+            "object_id": "4aa3157e-88c7-53f0-b116-f4d995b12f46"
+        }, 
+        {
+            "file_md5sum": "b64ef645c39c4e5e38a8d506849a1ca4", 
+            "file_name": "24d0ebc6-56fc-44f7-beb7-f04f4137b859.xml", 
+            "file_size": 51772, 
+            "object_id": "e082c940-41fa-5e75-af9f-8b55c007aa78"
+        }
+    ], 
+    "gnos_id": "24d0ebc6-56fc-44f7-beb7-f04f4137b859", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BRCA-EU", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1337226", 
+    "submitter_sample_id": "PD4971a", 
+    "submitter_specimen_id": "CGP_specimen_1387523"
+}
