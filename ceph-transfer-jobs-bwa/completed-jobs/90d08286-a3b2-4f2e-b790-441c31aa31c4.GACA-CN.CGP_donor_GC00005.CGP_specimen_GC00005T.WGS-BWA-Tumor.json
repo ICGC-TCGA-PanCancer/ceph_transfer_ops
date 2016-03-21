@@ -1,0 +1,65 @@
+{
+    "_runs_": {
+        "run_1458160168_ffaa9348-c1fb-43f6-a52c-97e759692c01": {
+            "downloading": {
+                "gnos-download_time": 1445, 
+                "start": 1458550153, 
+                "stop": 1458551600, 
+                "time": 1447
+            }, 
+            "uploading": {
+                "copy_meta_time": 3, 
+                "start": 1458551611, 
+                "stop": 1458552993, 
+                "time": 1382, 
+                "upload_time": 1374
+            }
+        }
+    }, 
+    "aliquot_id": "6dbac113-d4cf-4db5-97c9-50fa400bb47e", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "dc73c8ecdd5dce98d3c2d0112d49c756", 
+                "file_size": 63746
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "38e48eee57a9d9139720e6214dca4e24", 
+                "file_size": 63747
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "750a7089669a92c37bb8621156659f63", 
+            "file_name": "750a7089669a92c37bb8621156659f63.bam", 
+            "file_size": 139532848794, 
+            "object_id": "234307b4-79bc-5bde-a8c7-620ffd32128f"
+        }, 
+        {
+            "file_md5sum": "71099fc4f95f11d2b1ee78c9948179b2", 
+            "file_name": "750a7089669a92c37bb8621156659f63.bam.bai", 
+            "file_size": 15896200, 
+            "object_id": "0d04e87b-7143-5165-91cd-2b9ded3ec4dd"
+        }, 
+        {
+            "file_md5sum": "dc73c8ecdd5dce98d3c2d0112d49c756", 
+            "file_name": "90d08286-a3b2-4f2e-b790-441c31aa31c4.xml", 
+            "file_size": 63746, 
+            "object_id": "3cfb0e02-f516-5bc8-b3bc-cfdda08b2c79"
+        }
+    ], 
+    "gnos_id": "90d08286-a3b2-4f2e-b790-441c31aa31c4", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "GACA-CN", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_GC00005", 
+    "submitter_sample_id": "GC12204T", 
+    "submitter_specimen_id": "CGP_specimen_GC00005T"
+}
