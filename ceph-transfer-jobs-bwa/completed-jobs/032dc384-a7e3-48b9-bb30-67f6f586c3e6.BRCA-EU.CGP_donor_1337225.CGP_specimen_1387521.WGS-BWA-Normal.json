@@ -1,0 +1,84 @@
+{
+    "_runs_": {
+        "run_1458074800_21d04a36-1ad9-417b-9b21-bd42d0622149": {
+            "downloading": {
+                "gnos-download_time": 7212, 
+                "start": 1458074822, 
+                "stop": 1458082035, 
+                "time": 7213
+            }, 
+            "uploading": {
+                "start": 1458082040, 
+                "stop": 1458082098, 
+                "time": 58
+            }
+        }, 
+        "run_1458661030_bad37539-e088-4a6a-8a18-11d6080d2f94": {
+            "downloading": {
+                "gnos-download_time": 3421, 
+                "start": 1458661071, 
+                "stop": 1458664492, 
+                "time": 3421
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1458664498, 
+                "stop": 1458668208, 
+                "time": 3710, 
+                "upload_time": 3704
+            }
+        }
+    }, 
+    "aliquot_id": "f7c6a336-3123-7580-e040-11ac0c485971", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "f15f5e96a6300dcdc88116b39182c57a", 
+                "file_size": 34974
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "37ec16da8832b29ccf0a88c3596c90b6", 
+                "file_size": 34856
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "78c4a82870519bf628594ecb09edaab2", 
+                "file_size": 34862
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "942772fb5e75a3cf18ce9a1f6b6039dd", 
+            "file_name": "942772fb5e75a3cf18ce9a1f6b6039dd.bam", 
+            "file_size": 110556169904, 
+            "object_id": "021a777a-4782-5c14-8e09-83034f7f86f2"
+        }, 
+        {
+            "file_md5sum": "034fb7089e2e770cbaeefc15ce3d1a32", 
+            "file_name": "942772fb5e75a3cf18ce9a1f6b6039dd.bam.bai", 
+            "file_size": 18469776, 
+            "object_id": "3e7a6493-81dd-5ca8-82be-cfe0f5826d5c"
+        }, 
+        {
+            "file_md5sum": "37ec16da8832b29ccf0a88c3596c90b6", 
+            "file_name": "032dc384-a7e3-48b9-bb30-67f6f586c3e6.xml", 
+            "file_size": 34856, 
+            "object_id": "266c127d-c0ad-51cc-94d4-2067ba7fb0e1"
+        }
+    ], 
+    "gnos_id": "032dc384-a7e3-48b9-bb30-67f6f586c3e6", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BRCA-EU", 
+    "specimen_type": "Normal - tissue adjacent to primary", 
+    "submitter_donor_id": "CGP_donor_1337225", 
+    "submitter_sample_id": "PD4970b", 
+    "submitter_specimen_id": "CGP_specimen_1387521"
+}
