@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458661030_c7fc8c60-497d-4978-9add-ad21a81d7077": {
+            "downloading": {
+                "gnos-download_time": 4335, 
+                "start": 1458790514, 
+                "stop": 1458794851, 
+                "time": 4337
+            }
+        }
+    }, 
+    "aliquot_id": "c1031260-c622-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "b653e630795a27c5715588c00b8a800d", 
+                "file_size": 29043
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "b9e66b2168db2e4027f4e61e97a3382a", 
+                "file_size": 28254
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "25645e211a9d1475c0a25428d2a4411e", 
+                "file_size": 28254
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "9eaf98cd9fcdf136791ed59a2316b303", 
+            "file_name": "d46a41557bad211fda2dba5879363b29.bam", 
+            "file_size": 101442737243, 
+            "object_id": "0f07fea0-87a9-5a2e-9ba8-680fae655103"
+        }, 
+        {
+            "file_md5sum": "a4ae51accaf0ea125f8e09a9abbb8e7b", 
+            "file_name": "d46a41557bad211fda2dba5879363b29.bam.bai", 
+            "file_size": 8941928, 
+            "object_id": "9f0840ca-3bea-504e-8d3d-fb461c65f0d5"
+        }, 
+        {
+            "file_md5sum": "b9e66b2168db2e4027f4e61e97a3382a", 
+            "file_name": "84f1371e-8d0b-4c27-aa31-2a37a2e285e2.xml", 
+            "file_size": 28254, 
+            "object_id": "c35d9720-21e0-5580-bc49-980471204600"
+        }
+    ], 
+    "gnos_id": "84f1371e-8d0b-4c27-aa31-2a37a2e285e2", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "specimen_type": "Normal - tissue adjacent to primary", 
+    "submitter_donor_id": "RK113", 
+    "submitter_sample_id": "RK113_L01", 
+    "submitter_specimen_id": "RK113_L01"
+}
