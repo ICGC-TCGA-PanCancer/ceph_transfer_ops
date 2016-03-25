@@ -1,0 +1,71 @@
+{
+    "_runs_": {
+        "run_1458852765_45941a35-02ea-4b78-826f-60d138f9f1e2": {
+            "downloading": {
+                "gnos-download_time": 38019, 
+                "start": 1458882946, 
+                "stop": 1458920967, 
+                "time": 38021
+            }, 
+            "uploading": {
+                "copy_meta_time": 4, 
+                "start": 1458920977, 
+                "stop": 1458923824, 
+                "time": 2847, 
+                "upload_time": 2838
+            }
+        }
+    }, 
+    "aliquot_id": "4396f730-4860-4aea-9c88-b520001cb6f1", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "da071f5023f1884940082e95f590d5c8", 
+                "file_size": 48837
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "0f80a5ea2c9f7858978d0c95b9e98007", 
+                "file_size": 48700
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "acf3a50c725aee60c27b67bb413dc89f", 
+                "file_size": 48831
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "fcfc08bb20b6b18b43cb5aa366adb26a", 
+            "file_name": "fcfc08bb20b6b18b43cb5aa366adb26a.bam", 
+            "file_size": 273291395605, 
+            "object_id": "7ab06209-2ede-5333-bb7d-87550f38fadb"
+        }, 
+        {
+            "file_md5sum": "b83304b1dd529de9f5cfcbcaa6251605", 
+            "file_name": "fcfc08bb20b6b18b43cb5aa366adb26a.bam.bai", 
+            "file_size": 37087568, 
+            "object_id": "c3a54712-b82f-555b-8d3c-a1d649a95c68"
+        }, 
+        {
+            "file_md5sum": "0f80a5ea2c9f7858978d0c95b9e98007", 
+            "file_name": "aa6eea67-df15-4e83-a37a-5bc23152902a.xml", 
+            "file_size": 48700, 
+            "object_id": "f5816b0b-0bc3-5465-a676-a2363cdf0d74"
+        }
+    ], 
+    "gnos_id": "aa6eea67-df15-4e83-a37a-5bc23152902a", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "specimen_type": "Normal - other", 
+    "submitter_donor_id": "PCSI_0218", 
+    "submitter_sample_id": "PCSI_0218_Pa_R", 
+    "submitter_specimen_id": "PCSI_0218_Pa_R"
+}
