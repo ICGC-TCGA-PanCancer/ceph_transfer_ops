@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458852764_b4992dba-8395-41ec-8927-6be8ccc32197": {
+            "downloading": {
+                "gnos-download_time": 4381, 
+                "start": 1458945065, 
+                "stop": 1458949446, 
+                "time": 4381
+            }
+        }
+    }, 
+    "aliquot_id": "4b305421-3a8c-4dcc-a401-423a4e6f87aa", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "71788f0f1f8f6d3dbc0a4cc36911e7b4", 
+                "file_size": 41597
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "7eeaa550d1ee2018c2ce32cef7079d11", 
+                "file_size": 41473
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "4a7aa1a7aed196b58ec4c2a81f565d81", 
+                "file_size": 41479
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "886607aec2d6864d2149749f4036f2b5", 
+            "file_name": "886607aec2d6864d2149749f4036f2b5.bam", 
+            "file_size": 234614718987, 
+            "object_id": "3b103d69-99ea-5455-873c-b58f65ef7465"
+        }, 
+        {
+            "file_md5sum": "163f7cab9edac2768c346b4ca60d102c", 
+            "file_name": "886607aec2d6864d2149749f4036f2b5.bam.bai", 
+            "file_size": 19108144, 
+            "object_id": "2f1e6fb7-aaff-5484-93d9-e5ffd9d503b1"
+        }, 
+        {
+            "file_md5sum": "7eeaa550d1ee2018c2ce32cef7079d11", 
+            "file_name": "becce76d-d53b-4483-8a06-8bcc1ddea2b4.xml", 
+            "file_size": 41473, 
+            "object_id": "34aa6683-390c-5afe-af90-ccebf5bfc69b"
+        }
+    ], 
+    "gnos_id": "becce76d-d53b-4483-8a06-8bcc1ddea2b4", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0279", 
+    "submitter_sample_id": "PCSI_0279_Ly_R", 
+    "submitter_specimen_id": "PCSI_0279_Ly_R"
+}
