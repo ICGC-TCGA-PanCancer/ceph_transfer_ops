@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458676262_07d464e0-05df-488a-bb5d-cc3924c9eaca": {
+            "downloading": {
+                "gnos-download_time": 4014, 
+                "start": 1458945060, 
+                "stop": 1458949076, 
+                "time": 4016
+            }
+        }
+    }, 
+    "aliquot_id": "43dadc68-c623-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "8027071e9eb07180785f032262fef148", 
+                "file_size": 29095
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "04e76269a9033665c52a3e6913d6ffc6", 
+                "file_size": 28306
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "56a010e8c22565265c59c8cb242f38f9", 
+                "file_size": 28306
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "f145fe7890ce598e8c0a84fe8c5ed532", 
+            "file_name": "fde0dc373e0ea3fadb755cf5d0c275d9.bam", 
+            "file_size": 105272301911, 
+            "object_id": "e124d5f2-056e-533f-9bbd-566b4e5df702"
+        }, 
+        {
+            "file_md5sum": "176ea4bab95c81f7bf45e3eea6fa4437", 
+            "file_name": "fde0dc373e0ea3fadb755cf5d0c275d9.bam.bai", 
+            "file_size": 8907048, 
+            "object_id": "69ec56d7-3b68-5d21-84a1-35508b4651be"
+        }, 
+        {
+            "file_md5sum": "04e76269a9033665c52a3e6913d6ffc6", 
+            "file_name": "bebe4ff3-b887-46a7-aec1-0380bfef3d78.xml", 
+            "file_size": 28306, 
+            "object_id": "703abc37-edc0-5212-8fb9-1b0f1d76f373"
+        }
+    ], 
+    "gnos_id": "bebe4ff3-b887-46a7-aec1-0380bfef3d78", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "RK236", 
+    "submitter_sample_id": "RK236_C01", 
+    "submitter_specimen_id": "RK236_C01"
+}
