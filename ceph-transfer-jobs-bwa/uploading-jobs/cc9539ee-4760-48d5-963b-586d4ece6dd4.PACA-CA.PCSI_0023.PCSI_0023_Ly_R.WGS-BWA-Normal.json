@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458676580_f4b0e6a9-eaee-44b6-9b3b-1bf95e6e96ca": {
+            "downloading": {
+                "gnos-download_time": 20101, 
+                "start": 1458962070, 
+                "stop": 1458982173, 
+                "time": 20103
+            }
+        }
+    }, 
+    "aliquot_id": "8d6bf55b-50af-43d3-b2e3-0f78a2adf8d7", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "ec698fa47a9dae8a3c69d510df391e5c", 
+                "file_size": 60071
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "4359c402f3b1799201c3acbb8eac5095", 
+                "file_size": 59920
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "bbdd0322d0e6fbbae52bb0cedf2067af", 
+                "file_size": 60065
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "493596935568fdef9f13c2b7d0f1b865", 
+            "file_name": "493596935568fdef9f13c2b7d0f1b865.bam", 
+            "file_size": 230693263930, 
+            "object_id": "8d96dc31-66e1-5807-9db1-b1fe22f3fcaf"
+        }, 
+        {
+            "file_md5sum": "4e48d473b7557116013fe1c29483f0c2", 
+            "file_name": "493596935568fdef9f13c2b7d0f1b865.bam.bai", 
+            "file_size": 34953144, 
+            "object_id": "73cc95ab-2e99-5df9-8aec-6f328d3ab3c5"
+        }, 
+        {
+            "file_md5sum": "4359c402f3b1799201c3acbb8eac5095", 
+            "file_name": "cc9539ee-4760-48d5-963b-586d4ece6dd4.xml", 
+            "file_size": 59920, 
+            "object_id": "3ecca712-bfa1-5f26-a87e-d49542350419"
+        }
+    ], 
+    "gnos_id": "cc9539ee-4760-48d5-963b-586d4ece6dd4", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0023", 
+    "submitter_sample_id": "PCSI_0023_Ly_R", 
+    "submitter_specimen_id": "PCSI_0023_Ly_R"
+}
