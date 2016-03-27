@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458853364_bc964d32-aaca-4eff-8a84-a89f263244af": {
+            "downloading": {
+                "fd279030-fdd5-4400-8e7b-0bd0dd1fc0b2.xml-size-mismatch": 38320, 
+                "start": 1459114130, 
+                "stop": 1459114131, 
+                "time": 1
+            }
+        }
+    }, 
+    "aliquot_id": "da1ed4b9-f428-48aa-834d-1d9673999044", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3a11da3d2c31051f007a95f1e17419b0", 
+                "file_size": 38439
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "2caa2a0645f01a4ef56cd95ca4f538e4", 
+                "file_size": 38320
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "e692d87febba298b84e8a6b7a31b04cc", 
+                "file_size": 38326
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "d06bcafec0fb3dd959d1dec70de95967", 
+            "file_name": "d06bcafec0fb3dd959d1dec70de95967.bam", 
+            "file_size": 192690131275, 
+            "object_id": "7735995d-c3c3-5a40-b2d4-a2c4574f4580"
+        }, 
+        {
+            "file_md5sum": "2103807f765f0cb1b5b6fd002e481dc0", 
+            "file_name": "d06bcafec0fb3dd959d1dec70de95967.bam.bai", 
+            "file_size": 21260464, 
+            "object_id": "eeee5ccb-9c3c-5acc-95b5-5747961ae4dd"
+        }, 
+        {
+            "file_md5sum": "2caa2a0645f01a4ef56cd95ca4f538e4", 
+            "file_name": "fd279030-fdd5-4400-8e7b-0bd0dd1fc0b2.xml", 
+            "file_size": 58341, 
+            "object_id": "bc85a7f6-a901-57f8-851f-df594f884140"
+        }
+    ], 
+    "gnos_id": "fd279030-fdd5-4400-8e7b-0bd0dd1fc0b2", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "PCSI_0082", 
+    "submitter_sample_id": "PCSI_0082_Pa_P_526", 
+    "submitter_specimen_id": "PCSI_0082_Pa_P_526"
+}
