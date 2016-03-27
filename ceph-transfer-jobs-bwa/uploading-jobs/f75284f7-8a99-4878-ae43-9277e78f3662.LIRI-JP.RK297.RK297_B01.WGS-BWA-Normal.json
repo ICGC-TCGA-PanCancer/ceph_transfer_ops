@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458852765_45941a35-02ea-4b78-826f-60d138f9f1e2": {
+            "downloading": {
+                "gnos-download_time": 6375, 
+                "start": 1459098179, 
+                "stop": 1459104554, 
+                "time": 6375
+            }
+        }
+    }, 
+    "aliquot_id": "6d77faec-c623-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "0691ae33c2c14b0f6bb4ecfaaefd7c59", 
+                "file_size": 31948
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "c4b4d393b3216371174680be4335a8da", 
+                "file_size": 31096
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "5b064d7079ca9eea5775ea77d5ac17a8", 
+                "file_size": 31096
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "2d3e1550458935d40e9397a90b3fddc4", 
+            "file_name": "b2e4209cf90d0d92acf2c65911a652cf.bam", 
+            "file_size": 114226992498, 
+            "object_id": "c50a9259-6e72-5aaa-aabd-6ce12b6bb41a"
+        }, 
+        {
+            "file_md5sum": "2d07cebf2bf340e18aef25e83f2f5ef6", 
+            "file_name": "b2e4209cf90d0d92acf2c65911a652cf.bam.bai", 
+            "file_size": 9123840, 
+            "object_id": "9a785939-0047-5cee-9eaf-adc59ee5a082"
+        }, 
+        {
+            "file_md5sum": "c4b4d393b3216371174680be4335a8da", 
+            "file_name": "f75284f7-8a99-4878-ae43-9277e78f3662.xml", 
+            "file_size": 31096, 
+            "object_id": "cb51f61b-69b3-598e-a8c1-f05f58ebbc56"
+        }
+    ], 
+    "gnos_id": "f75284f7-8a99-4878-ae43-9277e78f3662", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "RK297", 
+    "submitter_sample_id": "RK297_B01", 
+    "submitter_specimen_id": "RK297_B01"
+}
