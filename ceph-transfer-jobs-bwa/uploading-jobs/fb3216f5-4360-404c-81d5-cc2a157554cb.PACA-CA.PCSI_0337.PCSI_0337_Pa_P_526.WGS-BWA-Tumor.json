@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1458852767_f03a6116-5cf0-4048-92c5-c3c65345bb8a": {
+            "downloading": {
+                "gnos-download_time": 4105, 
+                "start": 1459109806, 
+                "stop": 1459113913, 
+                "time": 4107
+            }
+        }
+    }, 
+    "aliquot_id": "e7603fc8-9b73-4c17-86f9-46ca1bceeb1d", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3eab6bc34a0d27b51d1e4034cc6a3c4d", 
+                "file_size": 37479
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "a3e8e4709d6f7afcf104664b88ef0860", 
+                "file_size": 37362
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "008e586f1a0e6a5d0f721c3c3fa41a7c", 
+                "file_size": 37360
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "9226d18ca5ba89ecd08e6c882bafa9e0", 
+            "file_name": "9226d18ca5ba89ecd08e6c882bafa9e0.bam", 
+            "file_size": 183315950449, 
+            "object_id": "12505851-1bad-5829-a768-b54ad7cc7425"
+        }, 
+        {
+            "file_md5sum": "509ff23d3a586f82e9478d8f616e91df", 
+            "file_name": "9226d18ca5ba89ecd08e6c882bafa9e0.bam.bai", 
+            "file_size": 22863520, 
+            "object_id": "f28efcae-2e0b-5900-b1da-2ff18671ad46"
+        }, 
+        {
+            "file_md5sum": "a3e8e4709d6f7afcf104664b88ef0860", 
+            "file_name": "fb3216f5-4360-404c-81d5-cc2a157554cb.xml", 
+            "file_size": 37362, 
+            "object_id": "0a1fddf5-85c4-5d04-a8aa-d2d5a7b2af95"
+        }
+    ], 
+    "gnos_id": "fb3216f5-4360-404c-81d5-cc2a157554cb", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "PCSI_0337", 
+    "submitter_sample_id": "PCSI_0337_Pa_P_526", 
+    "submitter_specimen_id": "PCSI_0337_Pa_P_526"
+}
