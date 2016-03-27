@@ -1,0 +1,71 @@
+{
+    "_runs_": {
+        "run_1458760441_b385d206-9bb5-4483-8216-65631186cc37": {
+            "downloading": {
+                "gnos-download_time": 18175, 
+                "start": 1459075673, 
+                "stop": 1459093849, 
+                "time": 18176
+            }, 
+            "uploading": {
+                "copy_meta_time": 3, 
+                "start": 1459093863, 
+                "stop": 1459115237, 
+                "time": 21374, 
+                "upload_time": 21367
+            }
+        }
+    }, 
+    "aliquot_id": "5c5b6ef7-39c9-41d8-a2e4-5fede9087ba2", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "8c38405d784e15c151c3a2f62fc61331", 
+                "file_size": 30717
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "2817130567c6e9c40450f9265b87946f", 
+                "file_size": 30832
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "a3f0d3c96cea6219e289006e476488bf", 
+                "file_size": 30824
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "40c4ad7d4c26095f4e6d2d481eba4ce5", 
+            "file_name": "40c4ad7d4c26095f4e6d2d481eba4ce5.bam", 
+            "file_size": 137577091730, 
+            "object_id": "b9c60d4c-d3d6-51fa-b462-2c134f2b7883"
+        }, 
+        {
+            "file_md5sum": "4e36fd45a76de454c7383e5ec8053127", 
+            "file_name": "40c4ad7d4c26095f4e6d2d481eba4ce5.bam.bai", 
+            "file_size": 28481416, 
+            "object_id": "c3269ac0-d8d0-54be-9cd9-28d45d6a9817"
+        }, 
+        {
+            "file_md5sum": "8c38405d784e15c151c3a2f62fc61331", 
+            "file_name": "ee3e94b5-545b-45e2-8ecd-6672e59ebfaa.xml", 
+            "file_size": 30717, 
+            "object_id": "74b71f02-fe84-52fd-a895-7ed726930bd7"
+        }
+    ], 
+    "gnos_id": "ee3e94b5-545b-45e2-8ecd-6672e59ebfaa", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LINC-JP", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "HX24", 
+    "submitter_sample_id": "HX24L", 
+    "submitter_specimen_id": "HX24L"
+}
