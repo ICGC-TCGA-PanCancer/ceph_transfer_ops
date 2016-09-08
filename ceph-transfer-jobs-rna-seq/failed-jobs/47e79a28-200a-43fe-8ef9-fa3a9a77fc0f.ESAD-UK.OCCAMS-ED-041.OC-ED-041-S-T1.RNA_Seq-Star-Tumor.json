@@ -1,0 +1,57 @@
+{
+    "_runs_": {
+        "run_1473371907_8e5e851f-7be7-4379-80d6-0ec8d6f1be88": {
+            "downloading": {
+                "gnos-download_time": 39, 
+                "start": 1473375797, 
+                "stop": 1473375837, 
+                "time": 40
+            }, 
+            "uploading": {
+                "start": 1473375841, 
+                "stop": 1473375841, 
+                "time": 0
+            }
+        }
+    }, 
+    "aliquot_id": "31178b81-d67d-4a82-bc16-df60d8c4c075", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "cbb4f960186a02d3f0244cad160abcac", 
+                "file_size": 27828
+            }
+        }
+    ], 
+    "data_type": "RNA_Seq-Star-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "15f710367e469bee10ef4b5102018410", 
+            "file_name": "PCAWG.7d1f5c61-5f71-406e-a191-7c4d26896662.STAR.v1.bam", 
+            "file_size": 810976081, 
+            "object_id": "f49aac81-77c7-506c-a33c-85ea9bddce28"
+        }, 
+        {
+            "file_md5sum": "6af4d1721e3b0ad72e87f7fc045a2dba", 
+            "file_name": "PCAWG.7d1f5c61-5f71-406e-a191-7c4d26896662.STAR.v1.bam.bai", 
+            "file_size": 3724072, 
+            "object_id": "796b47e6-ed62-55d3-9dab-d0f05bb14509"
+        }, 
+        {
+            "file_md5sum": "cbb4f960186a02d3f0244cad160abcac", 
+            "file_name": "47e79a28-200a-43fe-8ef9-fa3a9a77fc0f.xml", 
+            "file_size": 27828, 
+            "object_id": "b1d9e85d-57bd-5efb-a0bc-fee9a281cf40"
+        }
+    ], 
+    "gnos_id": "47e79a28-200a-43fe-8ef9-fa3a9a77fc0f", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "ESAD-UK", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "OCCAMS-ED-041", 
+    "submitter_sample_id": "LP6005500-DNA_H02", 
+    "submitter_specimen_id": "OC-ED-041-S-T1"
+}
