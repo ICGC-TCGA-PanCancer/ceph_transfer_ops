@@ -1,0 +1,53 @@
+{
+    "_runs_": {
+        "run_1473372804_6b9be95c-06f4-49ae-9cfc-ed3092b3c673": {
+            "downloading": {
+                "406d0c3c-d9a3-4f97-9ea0-2be99969aa0d.xml-md5sum-mismatch": "6a0f8bfbc14c000d889d71d5c24eb09a", 
+                "406d0c3c-d9a3-4f97-9ea0-2be99969aa0d.xml-size-mismatch": 21210, 
+                "start": 1473442303, 
+                "stop": 1473442303, 
+                "time": 0
+            }
+        }
+    }, 
+    "aliquot_id": "08d8bcee-9331-4c1b-ad8a-1ac2691b0e1b", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "cf360b5043040e2d153d43d818c131d5", 
+                "file_size": 21180
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "e3975ac0d7a9477439ea43a5a5675f78", 
+                "file_size": 21180
+            }
+        }
+    ], 
+    "data_type": "RNA_Seq-Tophat-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "a3d7d4945dc3dec0cc9bfd9f5c7537ce", 
+            "file_name": "PCAWG.c462f158-d4ba-11e4-85ac-bedbc4ac5db3.TopHat2.v1.bam", 
+            "file_size": 5319764798, 
+            "object_id": "9fc2f936-b4d6-54c6-8a3e-302015d0c1b7"
+        }, 
+        {
+            "file_md5sum": "cf360b5043040e2d153d43d818c131d5", 
+            "file_name": "406d0c3c-d9a3-4f97-9ea0-2be99969aa0d.xml", 
+            "file_size": 21180, 
+            "object_id": "febcf2d4-a94b-5e2c-8dc4-e717a15ebfe0"
+        }
+    ], 
+    "gnos_id": "406d0c3c-d9a3-4f97-9ea0-2be99969aa0d", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "MALY-DE", 
+    "specimen_type": "Primary tumour - lymph node", 
+    "submitter_donor_id": "4131095", 
+    "submitter_sample_id": "tumor_4131095_RNA", 
+    "submitter_specimen_id": "tumor_4131095"
+}
