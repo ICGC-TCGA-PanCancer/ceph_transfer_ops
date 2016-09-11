@@ -1,0 +1,58 @@
+{
+    "_runs_": {
+        "run_1473372716_f9b7b63a-2255-4edd-a804-cef68398ce25": {
+            "downloading": {
+                "gnos-download_time": 243, 
+                "start": 1473621208, 
+                "stop": 1473621451, 
+                "time": 243
+            }
+        }
+    }, 
+    "aliquot_id": "ba1c2904-2e42-4520-8052-e40ed154f838", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "3fe7b3764d28bb04027e94e27655e76a", 
+                "file_size": 21377
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "2fdf83ea714c1e8d5c13e2e8c586b394", 
+                "file_size": 21167
+            }
+        }
+    ], 
+    "data_type": "RNA_Seq-Tophat-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "a72185a297b012cdf7bbfcb0fbfef3b1", 
+            "file_name": "PCAWG.5630a954-d489-11e4-b3ee-e558599cd885.TopHat2.v1.bam", 
+            "file_size": 13181264591, 
+            "object_id": "3149e424-f9c5-5b59-addf-5641510d035f"
+        }, 
+        {
+            "file_md5sum": "35244d2f76b851b4543036634aa75723", 
+            "file_name": "PCAWG.5630a954-d489-11e4-b3ee-e558599cd885.TopHat2.v1.bam.bai", 
+            "file_size": 6521776, 
+            "object_id": "f2af7bf1-c857-57e6-bc25-b793c20c8488"
+        }, 
+        {
+            "file_md5sum": "3fe7b3764d28bb04027e94e27655e76a", 
+            "file_name": "55b81938-0c2c-495e-af28-574c30d53fa9.xml", 
+            "file_size": 21377, 
+            "object_id": "4d6d36bf-bffe-5917-bb1e-0d07b0dce66e"
+        }
+    ], 
+    "gnos_id": "55b81938-0c2c-495e-af28-574c30d53fa9", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "MALY-DE", 
+    "specimen_type": "Primary tumour - lymph node", 
+    "submitter_donor_id": "4105105", 
+    "submitter_sample_id": "tumor_4105105_RNA", 
+    "submitter_specimen_id": "tumor_4105105"
+}
