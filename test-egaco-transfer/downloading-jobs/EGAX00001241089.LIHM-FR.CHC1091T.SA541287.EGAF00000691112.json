@@ -1,41 +1,50 @@
 {
+    "_runs_": {
+        "run_1490629530_fc5c2694-06b1-4c5d-9cd5-c80c593e080b": {
+            "downloading": {
+                "start": 1490629671, 
+                "stop": 1490629671, 
+                "time": 0
+            }
+        }
+    }, 
+    "bundle_id": "EGAX00001241089", 
+    "ega_dataset": "EGAD00001001096", 
+    "ega_run": "EGAR00001266307", 
+    "ega_sample": "EGAN00001236039", 
+    "ega_study": "EGAS00001001002", 
     "files": [
         {
-            "icgc_filename": "EGAX00001241089.bam", 
-            "file_name": "66526c904b9f8cff8585737809c2f85c.CHC1091T.sorted.bam", 
             "ega_file_id": "EGAF00000691112", 
-            "object_id": "43681f3f-5a60-5a06-b800-e7365ef187fd", 
-            "file_md5sum": "66526c904b9f8cff8585737809c2f85c", 
-            "file_size": "7350278198", 
             "ega_file_name": "/fire/A/ega/vol1/EGAR00001266307/CHC1091T.sorted.bam.gpg", 
+            "file_md5sum": "66526c904b9f8cff8585737809c2f85c", 
+            "file_name": "66526c904b9f8cff8585737809c2f85c.CHC1091T.sorted.bam", 
+            "file_size": "7350278198", 
+            "icgc_filename": "EGAX00001241089.bam", 
+            "object_id": "43681f3f-5a60-5a06-b800-e7365ef187fd", 
             "type": "bam"
         }, 
         {
-            "file_name": "66526c904b9f8cff8585737809c2f85c.CHC1091T.sorted.bam.bai", 
             "file_md5sum": "7a4c5f368c51a26aa488dfa5f12769d7", 
-            "type": "bai", 
+            "file_name": "66526c904b9f8cff8585737809c2f85c.CHC1091T.sorted.bam.bai", 
+            "file_size": 4730288, 
             "object_id": "9609a618-af1f-59e0-8ff3-46cecc7c9b4a", 
-            "file_size": 4730288
+            "type": "bai"
         }, 
         {
-            "file_name": "66526c904b9f8cff8585737809c2f85c.CHC1091T.sorted.bam.xml", 
             "file_md5sum": "5a3e15e55db80ee16488754814b68775", 
-            "type": "xml", 
+            "file_name": "66526c904b9f8cff8585737809c2f85c.CHC1091T.sorted.bam.xml", 
+            "file_size": 157209, 
             "object_id": "02b0c60d-e5c9-5f98-81f5-a19847a80c03", 
-            "file_size": 157209
+            "type": "xml"
         }
     ], 
-    "status": "queued", 
-    "submitter_specimen_id": "CHC1091T", 
-    "ega_sample": "EGAN00001236039", 
-    "submitter_donor_id": "CHC1085", 
-    "bundle_id": "EGAX00001241089", 
-    "project_code": "LIHM-FR", 
-    "ega_run": "EGAR00001266307", 
     "icgc_sample_id": "SA541287", 
-    "submitter": "LIHM-FR", 
-    "submitter_sample_id": "CHC1091T", 
     "library_strategy": "WXS", 
-    "ega_study": "EGAS00001001002", 
-    "ega_dataset": "EGAD00001001096"
+    "project_code": "LIHM-FR", 
+    "status": "queued", 
+    "submitter": "LIHM-FR", 
+    "submitter_donor_id": "CHC1085", 
+    "submitter_sample_id": "CHC1091T", 
+    "submitter_specimen_id": "CHC1091T"
 }
