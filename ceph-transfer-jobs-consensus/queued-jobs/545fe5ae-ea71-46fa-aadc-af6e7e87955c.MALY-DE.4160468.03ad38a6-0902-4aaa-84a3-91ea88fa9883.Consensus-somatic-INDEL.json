@@ -1,0 +1,53 @@
+{
+    "_runs_": {
+        "run_1493040506_52bf6ac5-3c00-4459-9c7f-dd167227085d": {
+            "downloading": {
+                "gnos-download_time": 37, 
+                "gtdownload-error": true, 
+                "start": 1493041228, 
+                "stop": 1493041265, 
+                "time": 37
+            }
+        }
+    }, 
+    "aliquot_id": "03ad38a6-0902-4aaa-84a3-91ea88fa9883", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "ea57163f5fc7f17d102fcbc128a8d694", 
+                "file_size": 32575
+            }
+        }
+    ], 
+    "data_type": "Consensus-somatic-INDEL", 
+    "files": [
+        {
+            "file_md5sum": "311bf9b13a99fee540204ad15b710cf1", 
+            "file_name": "03ad38a6-0902-4aaa-84a3-91ea88fa9883.consensus.20161006.somatic.indel.vcf.gz", 
+            "file_size": 38773, 
+            "object_id": "c5f074b0-fc2a-5526-898e-456ae283cecf"
+        }, 
+        {
+            "file_md5sum": "d4710fb16a4ab0d52a3dece7bee42ad2", 
+            "file_name": "03ad38a6-0902-4aaa-84a3-91ea88fa9883.consensus.20161006.somatic.indel.vcf.gz.tbi", 
+            "file_size": 20523, 
+            "object_id": "56165db3-d506-562f-bc63-b61d109bffc6"
+        }, 
+        {
+            "file_md5sum": "ea57163f5fc7f17d102fcbc128a8d694", 
+            "file_name": "545fe5ae-ea71-46fa-aadc-af6e7e87955c.xml", 
+            "file_size": 32575, 
+            "object_id": "a45c9482-fd0b-5c8c-99e0-864eeae42282"
+        }
+    ], 
+    "gnos_id": "545fe5ae-ea71-46fa-aadc-af6e7e87955c", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "project_code": "MALY-DE", 
+    "specimen_type": null, 
+    "submitter_donor_id": "4160468", 
+    "submitter_sample_id": null, 
+    "submitter_specimen_id": "03ad38a6-0902-4aaa-84a3-91ea88fa9883", 
+    "vcf_workflow_result_version": "v1"
+}
