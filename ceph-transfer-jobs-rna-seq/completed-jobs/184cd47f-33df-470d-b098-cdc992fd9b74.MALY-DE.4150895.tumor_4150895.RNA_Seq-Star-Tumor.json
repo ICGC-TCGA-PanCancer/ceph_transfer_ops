@@ -1,59 +1,35 @@
-{
-    "_runs_": {
-        "run_1473372804_6b9be95c-06f4-49ae-9cfc-ed3092b3c673": {
-            "downloading": {
-                "gnos-download_time": 164, 
-                "start": 1473441315, 
-                "stop": 1473441480, 
-                "time": 165
-            }, 
-            "uploading": {
-                "copy_meta_time": 1, 
-                "start": 1473441488, 
-                "stop": 1473441637, 
-                "time": 149, 
-                "upload_time": 147
-            }
-        }
-    }, 
-    "aliquot_id": "0564eb46-23d2-4502-86b6-ff6a22b76bea", 
-    "available_repos": [
-        {
-            "https://gtrepo-ebi.annailabs.com/": {
-                "file_md5sum": "a339776eaab9ce92d68a9db044221364", 
-                "file_size": 22528
-            }
-        }, 
-        {
-            "https://gtrepo-bsc.annailabs.com/": {
-                "file_md5sum": "2948db67a2e3b8554b528d0a0d91d353", 
-                "file_size": 22528
-            }
-        }
-    ], 
-    "data_type": "RNA_Seq-Star-Tumor", 
-    "files": [
-        {
-            "file_md5sum": "0c4873b17f64ed2d358dec7f89c530a1", 
-            "file_name": "PCAWG.c81dee78-d484-11e4-89b6-d8b07afda675.STAR.v1.bam", 
-            "file_size": 8041063821, 
-            "object_id": "8d9d98e4-d3a1-5ece-a397-4cc6c62dfaf8"
-        }, 
-        {
-            "file_md5sum": "a339776eaab9ce92d68a9db044221364", 
-            "file_name": "184cd47f-33df-470d-b098-cdc992fd9b74.xml", 
-            "file_size": 22528, 
-            "object_id": "cec4083d-8710-5e72-ac10-ca7d86e97820"
-        }
-    ], 
-    "gnos_id": "184cd47f-33df-470d-b098-cdc992fd9b74", 
-    "gnos_repo": [
-        "https://gtrepo-ebi.annailabs.com/"
-    ], 
-    "is_santa_cruz": true, 
-    "project_code": "MALY-DE", 
-    "specimen_type": "Primary tumour - lymph node", 
-    "submitter_donor_id": "4150895", 
-    "submitter_sample_id": "tumor_4150895_RNA", 
-    "submitter_specimen_id": "tumor_4150895"
-}
+{"_runs_": {"run_1473372804_6b9be95c-06f4-49ae-9cfc-ed3092b3c673": {"downloading": {"gnos-download_time": 164,
+                                                                                       "start": 1473441315,
+                                                                                       "stop": 1473441480,
+                                                                                       "time": 165},
+                                                                      "uploading": {"copy_meta_time": 1,
+                                                                                     "start": 1473441488,
+                                                                                     "stop": 1473441637,
+                                                                                     "time": 149,
+                                                                                     "upload_time": 147}}},
+ "aliquot_id": "0564eb46-23d2-4502-86b6-ff6a22b76bea",
+ "available_repos": [{"https://gtrepo-ebi.annailabs.com/": {"file_md5sum": "a339776eaab9ce92d68a9db044221364",
+                                                              "file_size": 22528}},
+                      {"https://gtrepo-bsc.annailabs.com/": {"file_md5sum": "2948db67a2e3b8554b528d0a0d91d353",
+                                                              "file_size": 22528}}],
+ "data_type": "RNA_Seq-Star-Tumor",
+ "files": [{"file_md5sum": "0c4873b17f64ed2d358dec7f89c530a1",
+             "file_name": "PCAWG.c81dee78-d484-11e4-89b6-d8b07afda675.STAR.v1.bam",
+             "file_size": 8041063821,
+             "object_id": "8d9d98e4-d3a1-5ece-a397-4cc6c62dfaf8"},
+            {"file_md5sum": "a339776eaab9ce92d68a9db044221364",
+             "file_name": "184cd47f-33df-470d-b098-cdc992fd9b74.xml",
+             "file_size": 22528,
+             "object_id": "cec4083d-8710-5e72-ac10-ca7d86e97820"},
+            {"file_md5sum": "cf2f20af5b6eaf1137e926bb1408661d",
+             "file_name": "PCAWG.c81dee78-d484-11e4-89b6-d8b07afda675.STAR.v1.bam.bai",
+             "file_size": 4043576,
+             "object_id": "4b73a3aa-2284-5e2d-88c3-5dedaf221a36"}],
+ "gnos_id": "184cd47f-33df-470d-b098-cdc992fd9b74",
+ "gnos_repo": ["https://gtrepo-ebi.annailabs.com/"],
+ "is_santa_cruz": true,
+ "project_code": "MALY-DE",
+ "specimen_type": "Primary tumour - lymph node",
+ "submitter_donor_id": "4150895",
+ "submitter_sample_id": "tumor_4150895_RNA",
+ "submitter_specimen_id": "tumor_4150895"}

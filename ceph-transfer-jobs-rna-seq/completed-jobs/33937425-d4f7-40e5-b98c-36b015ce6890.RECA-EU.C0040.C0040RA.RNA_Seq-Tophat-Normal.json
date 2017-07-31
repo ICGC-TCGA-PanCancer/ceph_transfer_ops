@@ -1,53 +1,33 @@
-{
-    "_runs_": {
-        "run_1473437629_fbeea842-b0f6-46ee-9076-18959e28e165": {
-            "downloading": {
-                "gnos-download_time": 269, 
-                "start": 1473442099, 
-                "stop": 1473442368, 
-                "time": 269
-            }, 
-            "uploading": {
-                "copy_meta_time": 1, 
-                "start": 1473446116, 
-                "stop": 1473446355, 
-                "time": 239, 
-                "upload_time": 237
-            }
-        }
-    }, 
-    "aliquot_id": "afcded2c-c9b2-452e-aeb4-09f618734199", 
-    "available_repos": [
-        {
-            "https://gtrepo-ebi.annailabs.com/": {
-                "file_md5sum": "43413e6d096bcbf8b4029614c9c0ff00", 
-                "file_size": 21336
-            }
-        }
-    ], 
-    "data_type": "RNA_Seq-Tophat-Normal", 
-    "files": [
-        {
-            "file_md5sum": "fa4bce376e73af161f42216673aeaacf", 
-            "file_name": "PCAWG.57805ef4-dd34-11e4-992a-c779c254ba06.TopHat2.v1.bam", 
-            "file_size": 11496755160, 
-            "object_id": "ec2eb2e6-7a5d-52ee-9544-fe0af03517e0"
-        }, 
-        {
-            "file_md5sum": "43413e6d096bcbf8b4029614c9c0ff00", 
-            "file_name": "33937425-d4f7-40e5-b98c-36b015ce6890.xml", 
-            "file_size": 21336, 
-            "object_id": "4927d4ff-350d-5d8f-9748-f17b0101a164"
-        }
-    ], 
-    "gnos_id": "33937425-d4f7-40e5-b98c-36b015ce6890", 
-    "gnos_repo": [
-        "https://gtrepo-ebi.annailabs.com/"
-    ], 
-    "is_santa_cruz": false, 
-    "project_code": "RECA-EU", 
-    "specimen_type": "Normal - tissue adjacent to primary", 
-    "submitter_donor_id": "C0040", 
-    "submitter_sample_id": "C0040RA", 
-    "submitter_specimen_id": "C0040RA"
-}
+{"_runs_": {"run_1473437629_fbeea842-b0f6-46ee-9076-18959e28e165": {"downloading": {"gnos-download_time": 269,
+                                                                                       "start": 1473442099,
+                                                                                       "stop": 1473442368,
+                                                                                       "time": 269},
+                                                                      "uploading": {"copy_meta_time": 1,
+                                                                                     "start": 1473446116,
+                                                                                     "stop": 1473446355,
+                                                                                     "time": 239,
+                                                                                     "upload_time": 237}}},
+ "aliquot_id": "afcded2c-c9b2-452e-aeb4-09f618734199",
+ "available_repos": [{"https://gtrepo-ebi.annailabs.com/": {"file_md5sum": "43413e6d096bcbf8b4029614c9c0ff00",
+                                                              "file_size": 21336}}],
+ "data_type": "RNA_Seq-Tophat-Normal",
+ "files": [{"file_md5sum": "fa4bce376e73af161f42216673aeaacf",
+             "file_name": "PCAWG.57805ef4-dd34-11e4-992a-c779c254ba06.TopHat2.v1.bam",
+             "file_size": 11496755160,
+             "object_id": "ec2eb2e6-7a5d-52ee-9544-fe0af03517e0"},
+            {"file_md5sum": "43413e6d096bcbf8b4029614c9c0ff00",
+             "file_name": "33937425-d4f7-40e5-b98c-36b015ce6890.xml",
+             "file_size": 21336,
+             "object_id": "4927d4ff-350d-5d8f-9748-f17b0101a164"},
+            {"file_md5sum": "e5ce562e3ede1bee8c0361f3c5724c42",
+             "file_name": "PCAWG.57805ef4-dd34-11e4-992a-c779c254ba06.TopHat2.v1.bam.bai",
+             "file_size": 4948304,
+             "object_id": "15d2cb1e-0663-5735-9c8d-172c03975568"}],
+ "gnos_id": "33937425-d4f7-40e5-b98c-36b015ce6890",
+ "gnos_repo": ["https://gtrepo-ebi.annailabs.com/"],
+ "is_santa_cruz": false,
+ "project_code": "RECA-EU",
+ "specimen_type": "Normal - tissue adjacent to primary",
+ "submitter_donor_id": "C0040",
+ "submitter_sample_id": "C0040RA",
+ "submitter_specimen_id": "C0040RA"}

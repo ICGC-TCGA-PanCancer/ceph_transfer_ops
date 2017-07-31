@@ -1,53 +1,33 @@
-{
-    "_runs_": {
-        "run_1473372716_f9b7b63a-2255-4edd-a804-cef68398ce25": {
-            "downloading": {
-                "gnos-download_time": 190, 
-                "start": 1473544569, 
-                "stop": 1473544760, 
-                "time": 191
-            }, 
-            "uploading": {
-                "copy_meta_time": 2, 
-                "start": 1473544893, 
-                "stop": 1473545071, 
-                "time": 178, 
-                "upload_time": 175
-            }
-        }
-    }, 
-    "aliquot_id": "8fb99fae-ddb8-11e4-ad8f-5ed8e2d07381", 
-    "available_repos": [
-        {
-            "https://gtrepo-riken.annailabs.com/": {
-                "file_md5sum": "8bc6fcdaac1c3c8eacb57a610331a04e", 
-                "file_size": 22563
-            }
-        }
-    ], 
-    "data_type": "RNA_Seq-Star-Normal", 
-    "files": [
-        {
-            "file_md5sum": "a7fdf7b21e7951313a73c80499ed5659", 
-            "file_name": "PCAWG.bf42c272-e200-11e4-8928-d42e03b1cd43.STAR.v1.bam", 
-            "file_size": 9318988061, 
-            "object_id": "9db18b3c-e473-5ab2-b340-043cb1aaed28"
-        }, 
-        {
-            "file_md5sum": "8bc6fcdaac1c3c8eacb57a610331a04e", 
-            "file_name": "f9aa1f5b-7c77-446e-b1fa-4f6c081da51e.xml", 
-            "file_size": 22563, 
-            "object_id": "9a5aa1b7-2c30-5b2c-8402-23b5d344d010"
-        }
-    ], 
-    "gnos_id": "f9aa1f5b-7c77-446e-b1fa-4f6c081da51e", 
-    "gnos_repo": [
-        "https://gtrepo-riken.annailabs.com/"
-    ], 
-    "is_santa_cruz": false, 
-    "project_code": "LIRI-JP", 
-    "specimen_type": "Normal - solid tissue", 
-    "submitter_donor_id": "RK061", 
-    "submitter_sample_id": "RK061_Liver", 
-    "submitter_specimen_id": "RK061_L01"
-}
+{"_runs_": {"run_1473372716_f9b7b63a-2255-4edd-a804-cef68398ce25": {"downloading": {"gnos-download_time": 190,
+                                                                                       "start": 1473544569,
+                                                                                       "stop": 1473544760,
+                                                                                       "time": 191},
+                                                                      "uploading": {"copy_meta_time": 2,
+                                                                                     "start": 1473544893,
+                                                                                     "stop": 1473545071,
+                                                                                     "time": 178,
+                                                                                     "upload_time": 175}}},
+ "aliquot_id": "8fb99fae-ddb8-11e4-ad8f-5ed8e2d07381",
+ "available_repos": [{"https://gtrepo-riken.annailabs.com/": {"file_md5sum": "8bc6fcdaac1c3c8eacb57a610331a04e",
+                                                                "file_size": 22563}}],
+ "data_type": "RNA_Seq-Star-Normal",
+ "files": [{"file_md5sum": "a7fdf7b21e7951313a73c80499ed5659",
+             "file_name": "PCAWG.bf42c272-e200-11e4-8928-d42e03b1cd43.STAR.v1.bam",
+             "file_size": 9318988061,
+             "object_id": "9db18b3c-e473-5ab2-b340-043cb1aaed28"},
+            {"file_md5sum": "8bc6fcdaac1c3c8eacb57a610331a04e",
+             "file_name": "f9aa1f5b-7c77-446e-b1fa-4f6c081da51e.xml",
+             "file_size": 22563,
+             "object_id": "9a5aa1b7-2c30-5b2c-8402-23b5d344d010"},
+            {"file_md5sum": "27cfdf10de21097b0c5fef12b147c508",
+             "file_name": "PCAWG.bf42c272-e200-11e4-8928-d42e03b1cd43.STAR.v1.bam.bai",
+             "file_size": 4479784,
+             "object_id": "1b349a8b-937d-59f5-93a5-500f0fa42b7d"}],
+ "gnos_id": "f9aa1f5b-7c77-446e-b1fa-4f6c081da51e",
+ "gnos_repo": ["https://gtrepo-riken.annailabs.com/"],
+ "is_santa_cruz": false,
+ "project_code": "LIRI-JP",
+ "specimen_type": "Normal - solid tissue",
+ "submitter_donor_id": "RK061",
+ "submitter_sample_id": "RK061_Liver",
+ "submitter_specimen_id": "RK061_L01"}

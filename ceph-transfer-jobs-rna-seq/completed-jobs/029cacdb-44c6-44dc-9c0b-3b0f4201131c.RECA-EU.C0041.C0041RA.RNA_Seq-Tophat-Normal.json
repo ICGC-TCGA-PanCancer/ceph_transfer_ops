@@ -1,62 +1,38 @@
-{
-    "_runs_": {
-        "run_1473372647_0dd06037-102d-41ec-98d5-e2b8f09f3997": {
-            "downloading": {
-                "gnos-download_time": 131, 
-                "start": 1473437365, 
-                "stop": 1473437497, 
-                "time": 132
-            }, 
-            "uploading": {
-                "copy_meta_time": 2, 
-                "start": 1473437503, 
-                "stop": 1473437646, 
-                "time": 143, 
-                "upload_time": 140
-            }
-        }, 
-        "run_1491836000_17244971-0707-42d3-993c-cc7cd71d32f5": {
-            "downloading": {
-                "029cacdb-44c6-44dc-9c0b-3b0f4201131c.xml-md5sum-mismatch": "227932017b992e5ddd918bc4d3fdefaa", 
-                "029cacdb-44c6-44dc-9c0b-3b0f4201131c.xml-size-mismatch": 21544, 
-                "start": 1491837885, 
-                "stop": 1491837886, 
-                "time": 1
-            }
-        }
-    }, 
-    "aliquot_id": "849b2633-1f0f-44ca-ad2b-0ae0e8d344d9", 
-    "available_repos": [
-        {
-            "https://gtrepo-ebi.annailabs.com/": {
-                "file_md5sum": "91b405920fce1e68e12338aefa4a07ac", 
-                "file_size": 21334
-            }
-        }
-    ], 
-    "data_type": "RNA_Seq-Tophat-Normal", 
-    "files": [
-        {
-            "file_md5sum": "0532aa6e803fd125c4be129076803ef1", 
-            "file_name": "PCAWG.cc51e6b6-dd30-11e4-a12d-8581c254ba06.TopHat2.v1.bam", 
-            "file_size": 7214109067, 
-            "object_id": "b5db1ab6-9afd-5051-8582-20f5e2a275e9"
-        }, 
-        {
-            "file_md5sum": "91b405920fce1e68e12338aefa4a07ac", 
-            "file_name": "029cacdb-44c6-44dc-9c0b-3b0f4201131c.xml", 
-            "file_size": 21334, 
-            "object_id": "44ea1dd1-caf8-57b7-82f8-2b585b50a142"
-        }
-    ], 
-    "gnos_id": "029cacdb-44c6-44dc-9c0b-3b0f4201131c", 
-    "gnos_repo": [
-        "https://gtrepo-ebi.annailabs.com/"
-    ], 
-    "is_santa_cruz": false, 
-    "project_code": "RECA-EU", 
-    "specimen_type": "Normal - tissue adjacent to primary", 
-    "submitter_donor_id": "C0041", 
-    "submitter_sample_id": "C0041RA", 
-    "submitter_specimen_id": "C0041RA"
-}
+{"_runs_": {"run_1473372647_0dd06037-102d-41ec-98d5-e2b8f09f3997": {"downloading": {"gnos-download_time": 131,
+                                                                                       "start": 1473437365,
+                                                                                       "stop": 1473437497,
+                                                                                       "time": 132},
+                                                                      "uploading": {"copy_meta_time": 2,
+                                                                                     "start": 1473437503,
+                                                                                     "stop": 1473437646,
+                                                                                     "time": 143,
+                                                                                     "upload_time": 140}},
+             "run_1491836000_17244971-0707-42d3-993c-cc7cd71d32f5": {"downloading": {"029cacdb-44c6-44dc-9c0b-3b0f4201131c.xml-md5sum-mismatch": "227932017b992e5ddd918bc4d3fdefaa",
+                                                                                       "029cacdb-44c6-44dc-9c0b-3b0f4201131c.xml-size-mismatch": 21544,
+                                                                                       "start": 1491837885,
+                                                                                       "stop": 1491837886,
+                                                                                       "time": 1}}},
+ "aliquot_id": "849b2633-1f0f-44ca-ad2b-0ae0e8d344d9",
+ "available_repos": [{"https://gtrepo-ebi.annailabs.com/": {"file_md5sum": "91b405920fce1e68e12338aefa4a07ac",
+                                                              "file_size": 21334}}],
+ "data_type": "RNA_Seq-Tophat-Normal",
+ "files": [{"file_md5sum": "0532aa6e803fd125c4be129076803ef1",
+             "file_name": "PCAWG.cc51e6b6-dd30-11e4-a12d-8581c254ba06.TopHat2.v1.bam",
+             "file_size": 7214109067,
+             "object_id": "b5db1ab6-9afd-5051-8582-20f5e2a275e9"},
+            {"file_md5sum": "91b405920fce1e68e12338aefa4a07ac",
+             "file_name": "029cacdb-44c6-44dc-9c0b-3b0f4201131c.xml",
+             "file_size": 21334,
+             "object_id": "44ea1dd1-caf8-57b7-82f8-2b585b50a142"},
+            {"file_md5sum": "eb9da90bd623fc7914c9cb0d89e77c07",
+             "file_name": "PCAWG.cc51e6b6-dd30-11e4-a12d-8581c254ba06.TopHat2.v1.bam.bai",
+             "file_size": 5132376,
+             "object_id": "5cd7ea88-178a-52b4-ad74-289d76eb826c"}],
+ "gnos_id": "029cacdb-44c6-44dc-9c0b-3b0f4201131c",
+ "gnos_repo": ["https://gtrepo-ebi.annailabs.com/"],
+ "is_santa_cruz": false,
+ "project_code": "RECA-EU",
+ "specimen_type": "Normal - tissue adjacent to primary",
+ "submitter_donor_id": "C0041",
+ "submitter_sample_id": "C0041RA",
+ "submitter_specimen_id": "C0041RA"}

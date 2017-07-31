@@ -1,53 +1,33 @@
-{
-    "_runs_": {
-        "run_1473372804_6b9be95c-06f4-49ae-9cfc-ed3092b3c673": {
-            "downloading": {
-                "gnos-download_time": 108, 
-                "start": 1473441692, 
-                "stop": 1473441801, 
-                "time": 109
-            }, 
-            "uploading": {
-                "copy_meta_time": 2, 
-                "start": 1473441813, 
-                "stop": 1473441921, 
-                "time": 108, 
-                "upload_time": 106
-            }
-        }
-    }, 
-    "aliquot_id": "008292c8-81f5-4930-b179-a198686fc79b", 
-    "available_repos": [
-        {
-            "https://gtrepo-ebi.annailabs.com/": {
-                "file_md5sum": "9f0909f8f3e81e87c16b089254c42ec0", 
-                "file_size": 22644
-            }
-        }
-    ], 
-    "data_type": "RNA_Seq-Star-Tumor", 
-    "files": [
-        {
-            "file_md5sum": "f6a11b8af1fba710d7312a5e2a635686", 
-            "file_name": "PCAWG.b9bf94f6-dd37-11e4-971f-fdaac254ba06.STAR.v1.bam", 
-            "file_size": 5435089468, 
-            "object_id": "94b666af-bbe8-5781-abfc-1710196839cf"
-        }, 
-        {
-            "file_md5sum": "9f0909f8f3e81e87c16b089254c42ec0", 
-            "file_name": "20c82f13-a27c-45a1-b6fe-806b19cb1940.xml", 
-            "file_size": 22644, 
-            "object_id": "8bb53340-6744-5017-9072-f84cbb297161"
-        }
-    ], 
-    "gnos_id": "20c82f13-a27c-45a1-b6fe-806b19cb1940", 
-    "gnos_repo": [
-        "https://gtrepo-ebi.annailabs.com/"
-    ], 
-    "is_santa_cruz": false, 
-    "project_code": "RECA-EU", 
-    "specimen_type": "Primary tumour - solid tissue", 
-    "submitter_donor_id": "C0070", 
-    "submitter_sample_id": "C0070RT", 
-    "submitter_specimen_id": "C0070RT"
-}
+{"_runs_": {"run_1473372804_6b9be95c-06f4-49ae-9cfc-ed3092b3c673": {"downloading": {"gnos-download_time": 108,
+                                                                                       "start": 1473441692,
+                                                                                       "stop": 1473441801,
+                                                                                       "time": 109},
+                                                                      "uploading": {"copy_meta_time": 2,
+                                                                                     "start": 1473441813,
+                                                                                     "stop": 1473441921,
+                                                                                     "time": 108,
+                                                                                     "upload_time": 106}}},
+ "aliquot_id": "008292c8-81f5-4930-b179-a198686fc79b",
+ "available_repos": [{"https://gtrepo-ebi.annailabs.com/": {"file_md5sum": "9f0909f8f3e81e87c16b089254c42ec0",
+                                                              "file_size": 22644}}],
+ "data_type": "RNA_Seq-Star-Tumor",
+ "files": [{"file_md5sum": "f6a11b8af1fba710d7312a5e2a635686",
+             "file_name": "PCAWG.b9bf94f6-dd37-11e4-971f-fdaac254ba06.STAR.v1.bam",
+             "file_size": 5435089468,
+             "object_id": "94b666af-bbe8-5781-abfc-1710196839cf"},
+            {"file_md5sum": "9f0909f8f3e81e87c16b089254c42ec0",
+             "file_name": "20c82f13-a27c-45a1-b6fe-806b19cb1940.xml",
+             "file_size": 22644,
+             "object_id": "8bb53340-6744-5017-9072-f84cbb297161"},
+            {"file_md5sum": "f55a18b499eeadb300a4f3d87f8b57a7",
+             "file_name": "PCAWG.b9bf94f6-dd37-11e4-971f-fdaac254ba06.STAR.v1.bam.bai",
+             "file_size": 5587312,
+             "object_id": "4e7fb905-36ad-541f-bd30-0bac0d62643b"}],
+ "gnos_id": "20c82f13-a27c-45a1-b6fe-806b19cb1940",
+ "gnos_repo": ["https://gtrepo-ebi.annailabs.com/"],
+ "is_santa_cruz": false,
+ "project_code": "RECA-EU",
+ "specimen_type": "Primary tumour - solid tissue",
+ "submitter_donor_id": "C0070",
+ "submitter_sample_id": "C0070RT",
+ "submitter_specimen_id": "C0070RT"}

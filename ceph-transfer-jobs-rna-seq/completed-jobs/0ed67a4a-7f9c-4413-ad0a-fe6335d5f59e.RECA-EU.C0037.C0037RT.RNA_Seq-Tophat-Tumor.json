@@ -1,62 +1,38 @@
-{
-    "_runs_": {
-        "run_1473372933_e23d9401-efa5-4f05-b59c-21da050fad3f": {
-            "downloading": {
-                "gnos-download_time": 125, 
-                "start": 1473439732, 
-                "stop": 1473439858, 
-                "time": 126
-            }, 
-            "uploading": {
-                "copy_meta_time": 1, 
-                "start": 1473440379, 
-                "stop": 1473440527, 
-                "time": 148, 
-                "upload_time": 146
-            }
-        }, 
-        "run_1491851218_60e3b962-134e-4a37-9477-2092be70b6f7": {
-            "downloading": {
-                "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e.xml-md5sum-mismatch": "46f71bd782bf34416e730397e65c6b66", 
-                "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e.xml-size-mismatch": 21531, 
-                "start": 1491851264, 
-                "stop": 1491851265, 
-                "time": 1
-            }
-        }
-    }, 
-    "aliquot_id": "4c696ce2-443f-45cc-abe0-926249826b93", 
-    "available_repos": [
-        {
-            "https://gtrepo-ebi.annailabs.com/": {
-                "file_md5sum": "225d3b19f9447c52fd341db09672b9de", 
-                "file_size": 21322
-            }
-        }
-    ], 
-    "data_type": "RNA_Seq-Tophat-Tumor", 
-    "files": [
-        {
-            "file_md5sum": "848dbbaa2b2ae5256bf6fb3e3443bb25", 
-            "file_name": "PCAWG.bddb49d8-dd35-11e4-8a0b-c68dc254ba06.TopHat2.v1.bam", 
-            "file_size": 7184871703, 
-            "object_id": "f34ee682-9503-5f42-843b-29f220243a6e"
-        }, 
-        {
-            "file_md5sum": "225d3b19f9447c52fd341db09672b9de", 
-            "file_name": "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e.xml", 
-            "file_size": 21322, 
-            "object_id": "396dd8e3-d38c-505a-bf52-0d3144ce5ab2"
-        }
-    ], 
-    "gnos_id": "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e", 
-    "gnos_repo": [
-        "https://gtrepo-ebi.annailabs.com/"
-    ], 
-    "is_santa_cruz": false, 
-    "project_code": "RECA-EU", 
-    "specimen_type": "Primary tumour - solid tissue", 
-    "submitter_donor_id": "C0037", 
-    "submitter_sample_id": "C0037RT", 
-    "submitter_specimen_id": "C0037RT"
-}
+{"_runs_": {"run_1473372933_e23d9401-efa5-4f05-b59c-21da050fad3f": {"downloading": {"gnos-download_time": 125,
+                                                                                       "start": 1473439732,
+                                                                                       "stop": 1473439858,
+                                                                                       "time": 126},
+                                                                      "uploading": {"copy_meta_time": 1,
+                                                                                     "start": 1473440379,
+                                                                                     "stop": 1473440527,
+                                                                                     "time": 148,
+                                                                                     "upload_time": 146}},
+             "run_1491851218_60e3b962-134e-4a37-9477-2092be70b6f7": {"downloading": {"0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e.xml-md5sum-mismatch": "46f71bd782bf34416e730397e65c6b66",
+                                                                                       "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e.xml-size-mismatch": 21531,
+                                                                                       "start": 1491851264,
+                                                                                       "stop": 1491851265,
+                                                                                       "time": 1}}},
+ "aliquot_id": "4c696ce2-443f-45cc-abe0-926249826b93",
+ "available_repos": [{"https://gtrepo-ebi.annailabs.com/": {"file_md5sum": "225d3b19f9447c52fd341db09672b9de",
+                                                              "file_size": 21322}}],
+ "data_type": "RNA_Seq-Tophat-Tumor",
+ "files": [{"file_md5sum": "848dbbaa2b2ae5256bf6fb3e3443bb25",
+             "file_name": "PCAWG.bddb49d8-dd35-11e4-8a0b-c68dc254ba06.TopHat2.v1.bam",
+             "file_size": 7184871703,
+             "object_id": "f34ee682-9503-5f42-843b-29f220243a6e"},
+            {"file_md5sum": "225d3b19f9447c52fd341db09672b9de",
+             "file_name": "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e.xml",
+             "file_size": 21322,
+             "object_id": "396dd8e3-d38c-505a-bf52-0d3144ce5ab2"},
+            {"file_md5sum": "3e339a14c7d9bf3fbd8236fca7897d61",
+             "file_name": "PCAWG.bddb49d8-dd35-11e4-8a0b-c68dc254ba06.TopHat2.v1.bam.bai",
+             "file_size": 4605768,
+             "object_id": "549a7693-25e5-50e9-8711-ed82c7c948d3"}],
+ "gnos_id": "0ed67a4a-7f9c-4413-ad0a-fe6335d5f59e",
+ "gnos_repo": ["https://gtrepo-ebi.annailabs.com/"],
+ "is_santa_cruz": false,
+ "project_code": "RECA-EU",
+ "specimen_type": "Primary tumour - solid tissue",
+ "submitter_donor_id": "C0037",
+ "submitter_sample_id": "C0037RT",
+ "submitter_specimen_id": "C0037RT"}
