@@ -1,0 +1,64 @@
+{
+    "_runs_": {
+        "run_1445102945_03bb19ec-1958-4978-93fe-f14999d182e2": {
+            "downloading": {
+                "gnos-download_time": 17052, 
+                "start": 1445342188, 
+                "stop": 1445359241, 
+                "time": 17053
+            }, 
+            "uploading": {
+                "start": 1445359248, 
+                "stop": 1445363630, 
+                "time": 4382, 
+                "upload_time": 4382
+            }
+        }
+    }, 
+    "aliquot_id": "05616329-e7ba-4efd-87b1-d79cd0f7af3d", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "2bf29543b296808f56c8515c6c507281", 
+                "file_size": 29685
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "8cd474e91cf3469d27766261e949d33b", 
+                "file_size": 29575
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "41b049d90d766b4e4a7910bfc67515ab", 
+            "file_name": "41b049d90d766b4e4a7910bfc67515ab.bam", 
+            "file_size": 108651394416, 
+            "object_id": "8d39d5e2-7b90-5fe6-a45e-2f6750b115d8"
+        }, 
+        {
+            "file_md5sum": "a72a5fd5da0ccbccbb97cd3d1f904ad2", 
+            "file_name": "41b049d90d766b4e4a7910bfc67515ab.bam.bai", 
+            "file_size": 19825056, 
+            "object_id": "6e2790db-7eae-5f54-a66b-4a8719ba33aa"
+        }, 
+        {
+            "file_md5sum": "2bf29543b296808f56c8515c6c507281", 
+            "file_name": "e56b275f-bd7a-4bc3-a101-ec476b017de3.xml", 
+            "file_size": 29685, 
+            "object_id": "d4953cf3-6016-5a9e-8c04-5d7681d831ef"
+        }
+    ], 
+    "gnos_id": "e56b275f-bd7a-4bc3-a101-ec476b017de3", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MALY-DE", 
+    "specimen_type": "Primary tumour - lymph node", 
+    "submitter_donor_id": "4105746", 
+    "submitter_sample_id": "tumor_4105746", 
+    "submitter_specimen_id": "tumor_4105746"
+}

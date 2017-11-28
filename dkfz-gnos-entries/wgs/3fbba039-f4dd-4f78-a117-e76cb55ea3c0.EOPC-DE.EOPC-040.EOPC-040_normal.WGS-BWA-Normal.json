@@ -1,0 +1,71 @@
+{
+    "_runs_": {
+        "run_1450466223_aec08831-6d89-4b48-aae2-cd2f3869fc15": {
+            "downloading": {
+                "gnos-download_time": 8084, 
+                "start": 1450539919, 
+                "stop": 1450548004, 
+                "time": 8085
+            }, 
+            "uploading": {
+                "copy_meta_time": 1, 
+                "start": 1450548009, 
+                "stop": 1450551424, 
+                "time": 3415, 
+                "upload_time": 3411
+            }
+        }
+    }, 
+    "aliquot_id": "7c5ed1b8-0d78-446f-9f16-5bb73770cd24", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "8ccd7669b32eec38e0f0d67df0b9b2db", 
+                "file_size": 30598
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "af687fc2fdfba5770bf1c65ac9b6459d", 
+                "file_size": 30596
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "bbdc1c10836a839c1989dca8e2d11d77", 
+                "file_size": 30488
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "8fe54c0e40d5f7feacd9f0456661fca9", 
+            "file_name": "8fe54c0e40d5f7feacd9f0456661fca9.bam", 
+            "file_size": 203592779288, 
+            "object_id": "65f124ed-049a-566c-8f34-e5dfeaa2ac48"
+        }, 
+        {
+            "file_md5sum": "ba2c55e585d1ac6ccc7112d119ef33e1", 
+            "file_name": "8fe54c0e40d5f7feacd9f0456661fca9.bam.bai", 
+            "file_size": 37090520, 
+            "object_id": "1a186c0d-01b5-5c06-a1fe-b815cc337713"
+        }, 
+        {
+            "file_md5sum": "8ccd7669b32eec38e0f0d67df0b9b2db", 
+            "file_name": "3fbba039-f4dd-4f78-a117-e76cb55ea3c0.xml", 
+            "file_size": 30598, 
+            "object_id": "62e4c61c-66cc-5409-ae6d-6e2fbc8a301a"
+        }
+    ], 
+    "gnos_id": "3fbba039-f4dd-4f78-a117-e76cb55ea3c0", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "EOPC-DE", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "EOPC-040", 
+    "submitter_sample_id": "EOPC-040_normal", 
+    "submitter_specimen_id": "EOPC-040_normal"
+}

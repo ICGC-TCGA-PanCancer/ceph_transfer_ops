@@ -1,0 +1,76 @@
+{
+    "_runs_": {
+        "run_1445051830_c8e54775-9bd3-484d-9ac2-baaad7d94c74": {
+            "downloading": {
+                "gnos-download_time": 24057, 
+                "start": 1445333579, 
+                "stop": 1445357636, 
+                "time": 24057
+            }, 
+            "uploading": {
+                "start": 1445357644, 
+                "stop": 1445360863, 
+                "time": 3219, 
+                "upload_time": 3219
+            }
+        }
+    }, 
+    "aliquot_id": "ea7d37ca-0dac-4ae6-ad03-97c6df3d116d", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "0ed588cbeb49a73b77aba6870effc22f", 
+                "file_size": 27412
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "52e01ac15040df0efce5f15c1b20ee61", 
+                "file_size": 27410
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "61faaf791af277982ae36bd3a6dac4f8", 
+                "file_size": 27408
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "4f5db1f7ebf615c95db482317851f302", 
+                "file_size": 27306
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Tumor", 
+    "files": [
+        {
+            "file_md5sum": "a7273583ed8c09a537b6629ec377542a", 
+            "file_name": "a7273583ed8c09a537b6629ec377542a.bam", 
+            "file_size": 84713157235, 
+            "object_id": "e9d6790c-dbf2-5327-a4ff-8c1ca3405939"
+        }, 
+        {
+            "file_md5sum": "ee49600f3a84169b93e86fbe2d7bbfcf", 
+            "file_name": "a7273583ed8c09a537b6629ec377542a.bam.bai", 
+            "file_size": 11276760, 
+            "object_id": "898ae2cf-8a74-5504-811f-f7823f653633"
+        }, 
+        {
+            "file_md5sum": "0ed588cbeb49a73b77aba6870effc22f", 
+            "file_name": "dbcf64d1-b395-4491-abc7-dab3855b5586.xml", 
+            "file_size": 27412, 
+            "object_id": "d0caa481-db7a-51f7-8c57-53a1fca138df"
+        }
+    ], 
+    "gnos_id": "dbcf64d1-b395-4491-abc7-dab3855b5586", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PBCA-DE", 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ICGC_PA20", 
+    "submitter_sample_id": "ICGC_PA20", 
+    "submitter_specimen_id": "ICGC_PA20"
+}

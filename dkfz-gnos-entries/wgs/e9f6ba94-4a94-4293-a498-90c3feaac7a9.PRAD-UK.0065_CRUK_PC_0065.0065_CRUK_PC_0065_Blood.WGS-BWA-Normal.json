@@ -1,0 +1,77 @@
+{
+    "_runs_": {
+        "run_1458676580_f4b0e6a9-eaee-44b6-9b3b-1bf95e6e96ca": {
+            "downloading": {
+                "gnos-download_time": 7816, 
+                "start": 1459061205, 
+                "stop": 1459069021, 
+                "time": 7816
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1459069032, 
+                "stop": 1459075951, 
+                "time": 6919, 
+                "upload_time": 6910
+            }
+        }
+    }, 
+    "aliquot_id": "f9c3bc8e-dbc1-1ed0-e040-11ac0d4803a9", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "0dc12724d7fead9427bb5a0324291237", 
+                "file_size": 30569
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "178c1ccbdaf87469a6759d5f1f55a019", 
+                "file_size": 30571
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "0d64e1f6c8ac16006bf36f7ab853a734", 
+                "file_size": 30575
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "12dd166933d16c99088840c6fd3dc462", 
+                "file_size": 57995
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "6c3d86485da645825a83c10d90f37098", 
+            "file_name": "6c3d86485da645825a83c10d90f37098.bam", 
+            "file_size": 126128782630, 
+            "object_id": "7021e9a5-5152-5e5f-8438-9d420ed00af5"
+        }, 
+        {
+            "file_md5sum": "ca27a36c7241f19bbcedb0b5a7d8b38c", 
+            "file_name": "6c3d86485da645825a83c10d90f37098.bam.bai", 
+            "file_size": 13399704, 
+            "object_id": "a6b8ed28-1a17-5167-948a-252f0c8107cc"
+        }, 
+        {
+            "file_md5sum": "12dd166933d16c99088840c6fd3dc462", 
+            "file_name": "e9f6ba94-4a94-4293-a498-90c3feaac7a9.xml", 
+            "file_size": 30459, 
+            "object_id": "75ceb04c-ed0e-5052-b681-4741ed059781"
+        }
+    ], 
+    "gnos_id": "e9f6ba94-4a94-4293-a498-90c3feaac7a9", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PRAD-UK", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "0065_CRUK_PC_0065", 
+    "submitter_sample_id": "0065_CRUK_PC_0065_Blood_DNA", 
+    "submitter_specimen_id": "0065_CRUK_PC_0065_Blood"
+}

@@ -1,0 +1,77 @@
+{
+    "_runs_": {
+        "run_1458676264_5935b7d8-66da-4a77-8185-a8862378eb18": {
+            "downloading": {
+                "gnos-download_time": 2498, 
+                "start": 1458787216, 
+                "stop": 1458789715, 
+                "time": 2499
+            }, 
+            "uploading": {
+                "copy_meta_time": 2, 
+                "start": 1458789731, 
+                "stop": 1458794984, 
+                "time": 5253, 
+                "upload_time": 5245
+            }
+        }
+    }, 
+    "aliquot_id": "f90ebcb8-c622-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "fe2048b0ab9fd65f65e7d3157bed64ea", 
+                "file_size": 29018
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "487b70288c9c958711425746552694c4", 
+                "file_size": 28232
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "6150501e0b351d8c30c92ad7529f5b14", 
+                "file_size": 28229
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "8bdf418ba2b31b74a68369dbae748779", 
+                "file_size": 28229
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "62d8e6e7ffb5ce98a945c3ce69dc9936", 
+            "file_name": "04eac9deaa63b0489f03c0934ee17a7f.bam", 
+            "file_size": 105354328347, 
+            "object_id": "3b6d882f-2f60-5d40-8d9d-0a8f17490fab"
+        }, 
+        {
+            "file_md5sum": "e261d2fbd79b139b81e2665c64636901", 
+            "file_name": "04eac9deaa63b0489f03c0934ee17a7f.bam.bai", 
+            "file_size": 9007624, 
+            "object_id": "16cad33a-62fa-5651-b6cd-5d1a24c99f1f"
+        }, 
+        {
+            "file_md5sum": "6150501e0b351d8c30c92ad7529f5b14", 
+            "file_name": "83f4e934-f23f-49f4-b74f-8dbb60700ff8.xml", 
+            "file_size": 28229, 
+            "object_id": "490234fd-4d60-546f-a508-b6b01d8ca7be"
+        }
+    ], 
+    "gnos_id": "83f4e934-f23f-49f4-b74f-8dbb60700ff8", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "RK167", 
+    "submitter_sample_id": "RK167_B01", 
+    "submitter_specimen_id": "RK167_B01"
+}

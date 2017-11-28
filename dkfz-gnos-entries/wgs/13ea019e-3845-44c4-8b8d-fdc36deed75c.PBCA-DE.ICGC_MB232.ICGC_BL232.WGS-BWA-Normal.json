@@ -1,0 +1,66 @@
+{
+    "_runs_": {
+        "run_1444964509_4013836f-309d-49d7-9807-a5419fa450d3": {
+            "downloading": {
+                "gnos-download_time": 9650, 
+                "start": 1445035156, 
+                "stop": 1445044806, 
+                "time": 9650
+            }, 
+            "uploading": {
+                "bai-upload_time": 3, 
+                "bam-upload_time": 1164, 
+                "start": 1445044809, 
+                "stop": 1445045977, 
+                "time": 1168, 
+                "xml-upload_time": 1
+            }
+        }
+    }, 
+    "aliquot_id": "d4dcd1d7-68b5-4abe-9c7e-faac1e7f280f", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "961b122ce244d83aa1ff06e39fd7a042", 
+                "file_size": 29633
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3669d5956dfb04f5bc4f0b9bd8c30c8a", 
+                "file_size": 29631
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "df8ab876f70252146086e81f524df0e6", 
+            "file_name": "df8ab876f70252146086e81f524df0e6.bam", 
+            "file_size": 110848802179, 
+            "object_id": "f89a3ae4-af73-5d66-b052-3e92a55da17e"
+        }, 
+        {
+            "file_md5sum": "caf6a0836980a4ed76c7caca405d7fe0", 
+            "file_name": "df8ab876f70252146086e81f524df0e6.bam.bai", 
+            "file_size": 12297800, 
+            "object_id": "f9d92c8b-6466-544a-b28b-27398608d0e8"
+        }, 
+        {
+            "file_md5sum": "3669d5956dfb04f5bc4f0b9bd8c30c8a", 
+            "file_name": "13ea019e-3845-44c4-8b8d-fdc36deed75c.xml", 
+            "file_size": 29631, 
+            "object_id": "943800a9-2ff0-56e0-bc50-8b310c410d94"
+        }
+    ], 
+    "gnos_id": "13ea019e-3845-44c4-8b8d-fdc36deed75c", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PBCA-DE", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "ICGC_MB232", 
+    "submitter_sample_id": "ICGC_BL232", 
+    "submitter_specimen_id": "ICGC_BL232"
+}

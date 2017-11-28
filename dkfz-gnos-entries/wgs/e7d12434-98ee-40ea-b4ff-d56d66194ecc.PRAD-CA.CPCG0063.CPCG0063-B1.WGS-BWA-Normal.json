@@ -1,0 +1,68 @@
+{
+    "_runs_": {
+        "run_1450887941_459ce9c3-405b-4755-9b01-7803397ba848": {
+            "downloading": {
+                "gnos-download_time": 1959, 
+                "gtdownload-error": true, 
+                "start": 1451353138, 
+                "stop": 1451355098, 
+                "time": 1960
+            }
+        }, 
+        "run_1455031947_c1b9252f-24c7-43b2-8cb3-7bd35c683587": {
+            "downloading": {
+                "gnos-download_time": 8040, 
+                "start": 1455207791, 
+                "stop": 1455215833, 
+                "time": 8042
+            }, 
+            "uploading": {
+                "copy_meta_time": 3, 
+                "start": 1455215861, 
+                "stop": 1455217041, 
+                "time": 1180, 
+                "upload_time": 1175
+            }
+        }
+    }, 
+    "aliquot_id": "4013a548-54a9-44e2-9d0c-099c873ab050", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "16d3ee180daad1f8e828d8b0cf19549a", 
+                "file_size": 31044
+            }
+        }
+    ], 
+    "data_type": "WGS-BWA-Normal", 
+    "files": [
+        {
+            "file_md5sum": "6996781646c6f4de9976deb886a91d4a", 
+            "file_name": "6996781646c6f4de9976deb886a91d4a.bam", 
+            "file_size": 98782173901, 
+            "object_id": "91c14b9c-d5ef-5821-8d52-cd09a8048e05"
+        }, 
+        {
+            "file_md5sum": "d86e533aab020ae9ec2b929dc36578a0", 
+            "file_name": "6996781646c6f4de9976deb886a91d4a.bam.bai", 
+            "file_size": 11943912, 
+            "object_id": "c2b7a041-b4bb-53ee-859c-dc7a5c029c12"
+        }, 
+        {
+            "file_md5sum": "16d3ee180daad1f8e828d8b0cf19549a", 
+            "file_name": "e7d12434-98ee-40ea-b4ff-d56d66194ecc.xml", 
+            "file_size": 31044, 
+            "object_id": "84ba244a-ecd0-5799-98a8-03a5ab6d24d0"
+        }
+    ], 
+    "gnos_id": "e7d12434-98ee-40ea-b4ff-d56d66194ecc", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CPCG0063", 
+    "submitter_sample_id": "CPCG0063-B1", 
+    "submitter_specimen_id": "CPCG0063-B1"
+}
